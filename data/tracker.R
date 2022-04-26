@@ -21,7 +21,7 @@ factsheet_text <- pdf_text("Fact-sheet_Horizon_en.pdf")
 writeLines(factsheet_text, here("data", "Fact-sheet_Horizon_en.txt"))
 
 # commiting changes
-add(path = "data/QA-Horizon-Europe_E.txt")
-add(path = "data/Fact-sheet_Horizon_en.txt")
-
-commit(message = "Updated with R")
+add(repo, path = "data/QA-Horizon-Europe_E.txt")
+add(repo, path = "data/Fact-sheet_Horizon_en.txt")
+commit(repo, message = "Updated with R")
+push(repo, "origin", "refs/heads/main")
