@@ -23,5 +23,7 @@ writeLines(factsheet_text, here("data", "Fact-sheet_Horizon_en.txt"))
 # commiting changes
 add(repo, path = "data/QA-Horizon-Europe_E.txt")
 add(repo, path = "data/Fact-sheet_Horizon_en.txt")
+
+# needs a tryCatch
 commit(repo, message = "Updated with R")
 push(repo, "origin", "refs/heads/main")
