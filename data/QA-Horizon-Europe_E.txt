@@ -1,12 +1,12 @@
-Federal Department of Economic Affairs,
-Education and Research EAER
-State Secretariat for Education,
-Research and Innovation SERI
-EU Framework Programmes
-
-Swiss participation in the EU Framework Programmes for Research and Innovation and related programmes and initiatives
-
-Q&A on Horizon Europe, Digital Europe Programme, Euratom Programme and ITER such as Horizon 2020
+                                                         Federal Department of Economic Affairs,
+                                                         Education and Research EAER
+                                                         State Secretariat for Education,
+                                                         Research and Innovation SERI
+                                                         EU Framework Programmes
+Swiss participation in the EU Framework Programmes for Research and Innova-
+tion and related programmes and initiatives
+Q&A on Horizon Europe, Digital Europe Programme, Euratom Pro-
+gramme and ITER such as Horizon 2020
 Information as of 4 March 2022
 Main changes have been made in Q&A no. 10, 11, 16, 21, 29 and 37.
 The Swiss State Secretariat for Education, Research and Innovation (SERI) updates the answers of the
@@ -16,1223 +16,744 @@ Please note that according to the EU nomenclature, all non-EU states are referre
 Horizon Europe, a distinction is made between (i) associated countries and (ii) non-associated third countries. This
 nomenclature is also used in this document.
 Among the non-associated third countries, participants from high-income third countries do normally not receive
-funding from the European Commission (EC), while a number of low- and middle-income third countries are automatically eligible for EC funding. Detailed information can be found here.
-
+funding from the European Commission (EC), while a number of low- and middle-income third countries are auto-
+matically eligible for EC funding. Detailed information can be found here.
 The Q&A document is structured along the following contents. The detailed questions are listed below.
-
 Contents
 1. Horizon Europe
-1.1. Generally applicable
-1.2. Collaborative Projects
-1.3. Partnerships
-1.4. European Research Council (ERC)
-1.5. Marie-Skłodowska-Curie Actions (MSCA)
-1.6. European Innovation Council (EIC)
-1.7. European Institute of Innovation and Technology (EIT)
-
+    1.1.  Generally applicable
+    1.2.  Collaborative Projects
+    1.3.  Partnerships
+    1.4.  European Research Council (ERC)
+    1.5.  Marie-Skłodowska-Curie Actions (MSCA)
+    1.6.  European Innovation Council (EIC)
+    1.7.  European Institute of Innovation and Technology (EIT)
 2. Digital Europe Programme (DEP)
 3. Euratom & ITER
 4. European Defence Fund (EDF)
 5. Horizon 2020
+                                                                                                         Page 1 of 20
 
-Page 1 of 20
-
-Questions
-1
-
-Horizon Europe ......................................................................................................................... 5
-
+Questions
+1         Horizon Europe ......................................................................................................................... 5
 1.1 Generally applicable ....................................................................................................................... 5
 What is Switzerland’s status in Horizon Europe?.................................................................................... 5
 Is an association to Horizon Europe still possible for Switzerland? ........................................................ 5
 Can Swiss entities (including companies and SME) participate in Horizon Europe? ............................. 5
 In which instruments and calls can Swiss entities (including companies and SME) participate? ........... 5
 As Switzerland is currently considered a non-associated country, will Swiss entities (including
-companies and SME) be funded by the State Secretariat for Education, Research and Innovation
-SERI? .................................................................................................................................................... 5
+  companies and SME) be funded by the State Secretariat for Education, Research and Innovation
+  SERI? .................................................................................................................................................... 5
 Which are the rules of the State Secretariat for Education, Research and Innovation (SERI) to approve
-the budget of participants based in Switzerland? ................................................................................. 6
+  the budget of participants based in Switzerland? ................................................................................. 6
 How can researchers and innovators, whose projects were positively evaluated by the European
-Commission, submit their funding request to the State Secretariat for Education, Research and
-Innovation (SERI)?................................................................................................................................ 6
+  Commission, submit their funding request to the State Secretariat for Education, Research and
+  Innovation (SERI)?................................................................................................................................ 6
 Can researchers and innovators at an institution based in an EU Member State or associated country
-who have been awarded a grant in response to a call under Horizon Europe transfer it to Switzerland
-(either at the beginning of the grant or during its term) if the Grantee is appointed to a Swiss
-institution? ............................................................................................................................................. 6
+  who have been awarded a grant in response to a call under Horizon Europe transfer it to Switzerland
+  (either at the beginning of the grant or during its term) if the Grantee is appointed to a Swiss
+  institution? ............................................................................................................................................. 6
 Who can support me as a researcher or innovator in my application for R&I funding in Horizon Europe
-and related programmes and initiatives? .............................................................................................. 7
+  and related programmes and initiatives? .............................................................................................. 7
 Are there further transitional measures beyond direct funding? ............................................................. 7
 How should international organisations based in Switzerland submit their proposals to participate in
-Horizon Europe and related programmes and initiatives? Will they be funded by SERI or the EC? ... 8
+  Horizon Europe and related programmes and initiatives? Will they be funded by SERI or the EC? ... 8
 1.2 Collaborative Projects .................................................................................................................... 9
 Can legal entities (including companies and SME) based in Switzerland participate in collaborative
-projects? ............................................................................................................................................... 9
+  projects? ............................................................................................................................................... 9
 As Switzerland is currently considered a non-associated third country, will participants based in
-Switzerland sign the grant agreement? ................................................................................................ 9
+  Switzerland sign the grant agreement? ................................................................................................ 9
 As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland able to coordinate projects? .............................................................................................. 9
+  Switzerland able to coordinate projects? .............................................................................................. 9
 As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland able to lead a work package? ........................................................................................... 9
+  Switzerland able to lead a work package? ........................................................................................... 9
 As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland allowed to participate in Coordination and Support Actions (CSA)? ................................ 9
+  Switzerland allowed to participate in Coordination and Support Actions (CSA)? ................................ 9
 Is there any possibility for an institution from a non-associated third country to participate as
-beneficiary in a project and therefore also being eligible for direct funding from the EU? ................. 10
+  beneficiary in a project and therefore also being eligible for direct funding from the EU? ................. 10
 What happens to partners based in Switzerland if the status changes from non-associated third
-country mode to Switzerland being an associated country? .............................................................. 10
+  country mode to Switzerland being an associated country? .............................................................. 10
 How many partners are needed in a collaborative project of Horizon Europe and how should the Swiss
-partner be counted in as non-associated third country? .................................................................... 10
+  partner be counted in as non-associated third country? .................................................................... 10
 Given that Switzerland is considered a non-associated third country, how should the Swiss partners
-prepare a budget request for the proposals? ..................................................................................... 11
+  prepare a budget request for the proposals? ..................................................................................... 11
+                                                                                                                                                               2/20
 
-2/20
-
-Can Swiss participants join projects that are already running? Can these participants request funding
-from SERI? ......................................................................................................................................... 11
+Can Swiss participants join projects that are already running? Can these participants request funding
+  from SERI? ......................................................................................................................................... 11
 Will there be an official letter confirming the financing of the Swiss partners by the State Secretariat for
-Education, Research and Innovation (SERI)? .................................................................................... 11
+  Education, Research and Innovation (SERI)? .................................................................................... 11
 1.3 Partnerships................................................................................................................................... 11
 What type of partnerships is Switzerland eligible for? Who will finance the Swiss participation? ........ 11
 Can Swiss entities participate in Eurostars calls? ................................................................................. 12
 How can Swiss entities participate in the first calls of the partnership on Key Digital Technologies? .. 12
 1.4 European Research Council (ERC) ............................................................................................. 13
 Can entities based in Switzerland participate in the ERC calls in a non-associated third country mode?
-............................................................................................................................................................ 13
+   ............................................................................................................................................................ 13
 Can entities based in Switzerland still participate in the Synergy grant calls in a non-associated third
-country mode? .................................................................................................................................... 13
+  country mode? .................................................................................................................................... 13
 Can an ERC Starting or Consolidator Grantee who has acquired the 2021 grant under Horizon Europe
-with a host institution based in an EU Member State or associated country transfer it to Switzerland
-(either at the beginning of the grant or during its term) if the Grantee is appointed to a Swiss
-university? ........................................................................................................................................... 13
+  with a host institution based in an EU Member State or associated country transfer it to Switzerland
+  (either at the beginning of the grant or during its term) if the Grantee is appointed to a Swiss
+  university? ........................................................................................................................................... 13
 Which transitional measures are currently in place for the ERC calls? ................................................ 13
 1.5 Marie-Skłodowska-Curie Actions (MSCA) .................................................................................. 14
 In which MSCA are entities based in Switzerland eligible for participation with Switzerland being
-considered a non-associated third country? ....................................................................................... 14
+  considered a non-associated third country? ....................................................................................... 14
 Can entities based in Switzerland participate in MSCA collaborative projects? ................................... 14
 Can MSCA collaborative projects be coordinated by ‘associated partners’? ....................................... 14
 What happens to MSCA collaborative projects if Switzerland’s status changes from non-associated
-third country mode to Switzerland being an associated country? ...................................................... 14
+  third country mode to Switzerland being an associated country? ...................................................... 14
 Which transitional measures are currently in place for the MSCA mono-beneficiary calls? ................. 14
 1.6 European Innovation Council (EIC) ............................................................................................. 15
 Can Swiss SME participate in the EIC Accelerator? ............................................................................. 15
 As a non-associated third country, can Swiss entities participate as applicants in EIC Pathfinder and
-EIC Transition (collaborative) projects? .............................................................................................. 15
+  EIC Transition (collaborative) projects? .............................................................................................. 15
 How will the transitional measures for the 2022 EIC Accelerator calls be implemented? .................... 15
 1.7 European Institute of Innovation and Technology (EIT) ........................................................... 16
 Will Swiss partners (including companies and SME) participating in activities of the EIT and its KICs
-receive funding from the Swiss authorities as long as Switzerland is considered a non-associated
-third country? ...................................................................................................................................... 16
+  receive funding from the Swiss authorities as long as Switzerland is considered a non-associated
+  third country? ...................................................................................................................................... 16
 What happens to EIT projects from researchers and innovators based in Switzerland that have already
-been submitted and will be implemented under Horizon Europe? ..................................................... 16
+  been submitted and will be implemented under Horizon Europe? ..................................................... 16
 Can Swiss entities coordinate projects, i.e. act as Activity Leader in projects of the EIT KICs? .......... 16
 Can Swiss entities join a consortium applying for the call for a new KIC in Cultural & Creative Sectors
-and Industries (CCSI)? ....................................................................................................................... 16
+  and Industries (CCSI)? ....................................................................................................................... 16
 What further information on the budget does SERI need from the Swiss partner upon submission of an
-EIT project for direct funding? How will the funding rate be determined? .......................................... 16
+  EIT project for direct funding? How will the funding rate be determined? .......................................... 16
+                                                                                                                                                                   3/20
 
-3/20
-
-2
-
-Digital Europe Programme (DEP) ......................................................................................... 17
-
+2         Digital Europe Programme (DEP) ......................................................................................... 17
 Is Switzerland going to be associated to the Digital Europe Programme? ........................................... 17
 Can entities based in Switzerland apply to the Digital Europe Programme (DEP) although Switzerland
-is not associated to the DEP? ............................................................................................................. 17
+  is not associated to the DEP? ............................................................................................................. 17
 What are the consequences if the contribution of an entity based in a country not associated to the
-Programme (such as Switzerland) is not deemed ‘necessary’ to achieve the objectives of the
-Programme in the evaluation phase? ................................................................................................. 17
+  Programme (such as Switzerland) is not deemed ‘necessary’ to achieve the objectives of the
+  Programme in the evaluation phase? ................................................................................................. 17
 Is there already an indication of funding rates regarding the participation in a project in the Digital
-Europe Programme (DEP)? ................................................................................................................ 17
-3
-
-Euratom & ITER ...................................................................................................................... 18
-
+  Europe Programme (DEP)? ................................................................................................................ 17
+3         Euratom & ITER ...................................................................................................................... 18
 Can researchers and innovators in Switzerland participate in the current generation of the Euratom
-Research and Training Programme?.................................................................................................. 18
+  Research and Training Programme?.................................................................................................. 18
 Does the Federal Council seek full association to the Euratom Research and Training Programme and
-a continuation of Switzerland’s participation in ITER?........................................................................ 18
-4
-
-European Defence Fund (EDF).............................................................................................. 18
-
+  a continuation of Switzerland’s participation in ITER?........................................................................ 18
+4         European Defence Fund (EDF).............................................................................................. 18
 Can Switzerland participate in the European Defence Fund programme? ........................................... 18
-5
-
-Horizon 2020 ........................................................................................................................... 19
-
+5         Horizon 2020 ........................................................................................................................... 19
 As Switzerland is currently not associated to Horizon Europe, what will happen to the Swiss partner(s)
-in the ongoing Horizon 2020 projects? ............................................................................................... 19
+  in the ongoing Horizon 2020 projects? ............................................................................................... 19
 As Switzerland is currently not associated to Horizon Europe, can a Swiss partner join an ongoing
-Horizon 2020 project (e.g. to replace a missing partner) and get EU funding? Would the Swiss
-partner in this case be considered as an entity from an «associated country»? ................................ 19
+  Horizon 2020 project (e.g. to replace a missing partner) and get EU funding? Would the Swiss
+  partner in this case be considered as an entity from an «associated country»? ................................ 19
 As Switzerland is currently not associated to Horizon Europe, can Swiss entities participate and get
-funding from Financial Support to third parties calls from Horizon 2020 projects? ............................ 19
+  funding from Financial Support to third parties calls from Horizon 2020 projects? ............................ 19
 Does Brexit affect the current Horizon 2020 projects with UK partners / coordinators? ....................... 19
 As Switzerland is currently not associated to Horizon Europe, is there any risk that running projects
-under Horizon 2020 with Principal Investigators (PIs) from Switzerland will have to be terminated or
-modified (PI converted to team member, projects that do not fulfil the eligibility criteria)? ................ 19
+  under Horizon 2020 with Principal Investigators (PIs) from Switzerland will have to be terminated or
+  modified (PI converted to team member, projects that do not fulfil the eligibility criteria)? ................ 19
 As Switzerland is currently not associated to Horizon Europe, will a researcher holding a Horizon 2020
-ERC grant be allowed to move this ERC project to an institution based in Switzerland? .................. 19
+  ERC grant be allowed to move this ERC project to an institution based in Switzerland? .................. 19
 As Switzerland is currently not associated to Horizon Europe, how would this affect the eligibility of
-Swiss-based researchers and innovators to participate in Horizon 2020 ERA-NET calls (including
-calls for proposals)? ............................................................................................................................ 19
+  Swiss-based researchers and innovators to participate in Horizon 2020 ERA-NET calls (including
+  calls for proposals)? ............................................................................................................................ 19
+                                                                                                                                                        4/20
 
-4/20
-
-1
-
-Horizon Europe
-
-1.1 Generally applicable
-
-1
-
-2
-
-Q
-
-What is Switzerland’s status in Horizon Europe?
-
-A
-
-Switzerland is considered a non-associated third country. This status will apply until further notice. For the time being, this concerns the calls for Horizon Europe and related initiatives and
-programmes with call identifier 2021 and 2022 (meaning 2021 or 2022 is included in the call ID
-on the Funding & Tenders Portal). This includes all calls in the work programmes with their
-budget attributed to 2021 and 2022 (see question 18).
-
-Q
-
-Is an association to Horizon Europe still possible for Switzerland?
-
-A
-
-Yes, an association to Horizon Europe is still possible and will be subject to negotiations between
-Switzerland and the European Union that have not started yet. A full association to Horizon Europe and related programmes and initiatives as soon as possible remains the declared goal of
-the Federal Council.
-
-Q
-
-Can Swiss entities (including companies and SME) participate in Horizon Europe?
-Yes, entities based in Switzerland can participate in Horizon Europe.
-
-3
-
-A
-
-Any legal entity, regardless of its place of establishment, including legal entities from non-associated third countries or international organisations, is eligible to participate (whether it is eligible
-for funding or not), provided that the conditions laid down in the Horizon Europe Regulation
-are met, along with any other conditions laid down in the specific call topic which may provide
-for limitations or restrictions in certain cases. Please consult the respective work programme and
-information on the Funding & Tenders Portal.
-However, as Switzerland is considered a non-associated third country, Swiss entities (including
-companies and SME) can apply only for those calls in Horizon Europe and related programmes
-and initiatives that are open for non-associated third country participation. Applicants must therefore submit their proposals as participants from a non-associated third country (‘associated partner’, see question 12).
-
-Q
-
-4
-
-A
-
-In which instruments and calls can Swiss entities (including companies and SME) participate?
-While most collaborative projects in Horizon Europe are open to participants from non-associated
-third countries, the participation in mono-beneficiary instruments (individual ERC grants, MSCA
-Postdoctoral Fellowships, MSCA COFUND and EIC Accelerator) is by principle not possible as
-project submissions from non-associated third countries are not evaluated by the European
-Commission and therefore cannot be funded by the State Secretariat for Education, Research
-and Innovation (SERI).
-For some parts of the programme, which are not open to non-associated third countries, SERI
-has initiated transitional measures (see question 10).
-
-Q
-
-As Switzerland is currently considered a non-associated country, will Swiss entities (including
-companies and SME) be funded by the State Secretariat for Education, Research and Innovation
-SERI?
-
-A
-
-The Federal Decree on the Financing of the Horizon package 2021-2027 allows for funding of
-entities based in Switzerland, even if Switzerland is not or only partially associated to Horizon
-Europe. This applies in Switzerland’s current status of a non-associated third country.
-
+  1       Horizon Europe
+  1.1 Generally applicable
+    Q     What is Switzerland’s status in Horizon Europe?
+          Switzerland is considered a non-associated third country. This status will apply until further no-
+1   A
+          tice. For the time being, this concerns the calls for Horizon Europe and related initiatives and
+          programmes with call identifier 2021 and 2022 (meaning 2021 or 2022 is included in the call ID
+          on the Funding & Tenders Portal). This includes all calls in the work programmes with their
+          budget attributed to 2021 and 2022 (see question 18).
+    Q     Is an association to Horizon Europe still possible for Switzerland?
+          Yes, an association to Horizon Europe is still possible and will be subject to negotiations between
+2   A     Switzerland and the European Union that have not started yet. A full association to Horizon Eu-
+          rope and related programmes and initiatives as soon as possible remains the declared goal of
+          the Federal Council.
+    Q     Can Swiss entities (including companies and SME) participate in Horizon Europe?
+          Yes, entities based in Switzerland can participate in Horizon Europe.
+          Any legal entity, regardless of its place of establishment, including legal entities from non-asso-
+          ciated third countries or international organisations, is eligible to participate (whether it is eligible
+          for funding or not), provided that the conditions laid down in the Horizon Europe Regulation
+          are met, along with any other conditions laid down in the specific call topic which may provide
+3   A     for limitations or restrictions in certain cases. Please consult the respective work programme and
+          information on the Funding & Tenders Portal.
+          However, as Switzerland is considered a non-associated third country, Swiss entities (including
+          companies and SME) can apply only for those calls in Horizon Europe and related programmes
+          and initiatives that are open for non-associated third country participation. Applicants must there-
+          fore submit their proposals as participants from a non-associated third country (‘associated part-
+          ner’, see question 12).
+    Q     In which instruments and calls can Swiss entities (including companies and SME) participate?
+          While most collaborative projects in Horizon Europe are open to participants from non-associated
+          third countries, the participation in mono-beneficiary instruments (individual ERC grants, MSCA
+          Postdoctoral Fellowships, MSCA COFUND and EIC Accelerator) is by principle not possible as
+4         project submissions from non-associated third countries are not evaluated by the European
+    A     Commission and therefore cannot be funded by the State Secretariat for Education, Research
+          and Innovation (SERI).
+          For some parts of the programme, which are not open to non-associated third countries, SERI
+          has initiated transitional measures (see question 10).
+          As Switzerland is currently considered a non-associated country, will Swiss entities (including
+    Q     companies and SME) be funded by the State Secretariat for Education, Research and Innovation
+          SERI?
 5
+          The Federal Decree on the Financing of the Horizon package 2021-2027 allows for funding of
+    A     entities based in Switzerland, even if Switzerland is not or only partially associated to Horizon
+          Europe. This applies in Switzerland’s current status of a non-associated third country.
+                                                                                                                    5/20
 
-5/20
+    Swiss partners in projects, which have been positively evaluated by the EC, but are not financed
+    by the European Commission, can receive funding from the State Secretariat for Education, Re-
+    search and Innovation (SERI). (For units of the central federal administration special conditions
+    apply.) A corresponding financial guarantee for the 2021 and 2022 calls can be found on the
+    SERI website).
+    However, Switzerland's association to Horizon Europe and related programmes and initiatives
+    as soon as possible remains the declared goal of the Federal Council. As Switzerland’s status
+    can always change, consortia should remain flexible during proposal preparation (see question
+    18).
+  Q Which are the rules of the State Secretariat for Education, Research and Innovation (SERI) to
+    approve the budget of participants based in Switzerland?
+    The ‘Guidelines for financial reporting’ for participants based in Switzerland (including companies
+    and SME) have been published on the SERI website.
+    Rules on funding and financial reporting that apply to beneficiaries (project partners from EU
+    Member States or associated countries) in principle also apply to participants based in Switzer-
+    land. However, there are some specific rules according to the legal base for funding of Swiss
+6   participations in Horizon Europe projects.
+  A Based on the ordinance FIPBV (available in German, French & Italian) there are maximum salary
+    rates for companies, including SME, as well as non-commercial research centres and institutions
+    outside the university sector (Article 7). Also, funding can generally only be provided for costs
+    that are incurred in Switzerland (exceptions laid out in Article 11 paragraph 5).
+    SERI reserves the right to impose funding cuts should the costs of the Swiss participant be dis-
+    proportionally and unreasonably high. This includes the right to mandate an external expert panel
+    to review the Swiss project part.
+    How can researchers and innovators, whose projects were positively evaluated by the European
+  Q Commission, submit their funding request to the State Secretariat for Education, Research and
+    Innovation (SERI)?
+    To submit your funding request for a collaborative project, please check the SERI website on
+    transitional measures and direct funding. All the necessary information and steps for prepar-
+    ing and submitting a funding application and the corresponding financial reports to SERI are
+7   provided there.
+    Special conditions applying to units of the central federal administration are also indicated on the
+  A website, such as instructions and how to apply for funding for the specific mono-beneficiary
+    projects.
+    SERI highly recommends to get in touch with Euresearch concerning questions on the submis-
+    sion of proposals. For University or ETH domain participants, please refer to your Euresearch
+    Regional Office and/or your institution’s research office. For participants from other institutions
+    or companies, please refer directly to the Euresearch Network Office.
+    Can researchers and innovators at an institution based in an EU Member State or associated
+  Q country who have been awarded a grant in response to a call under Horizon Europe transfer it
+    to Switzerland (either at the beginning of the grant or during its term) if the Grantee is appointed
+    to a Swiss institution?
+8   Yes, this is possible (and notably applies to ERC grants). If Switzerland is an associated country
+    by the time the grant is transferred, then the funding by the European Commission (EC) contin-
+  A ues.
+    If Switzerland is a non-associated third country by the time the grant is transferred, the State
+    Secretariat for Education, Research and Innovation (SERI) would directly cover the remaining
+                                                                                                         6/20
 
-Swiss partners in projects, which have been positively evaluated by the EC, but are not financed
-by the European Commission, can receive funding from the State Secretariat for Education, Research and Innovation (SERI). (For units of the central federal administration special conditions
-apply.) A corresponding financial guarantee for the 2021 and 2022 calls can be found on the
-SERI website).
-However, Switzerland's association to Horizon Europe and related programmes and initiatives
-as soon as possible remains the declared goal of the Federal Council. As Switzerland’s status
-can always change, consortia should remain flexible during proposal preparation (see question
-18).
-
-Q
-
-Which are the rules of the State Secretariat for Education, Research and Innovation (SERI) to
-approve the budget of participants based in Switzerland?
-The ‘Guidelines for financial reporting’ for participants based in Switzerland (including companies
-and SME) have been published on the SERI website.
-
-6
-
-A
-
-Rules on funding and financial reporting that apply to beneficiaries (project partners from EU
-Member States or associated countries) in principle also apply to participants based in Switzerland. However, there are some specific rules according to the legal base for funding of Swiss
-participations in Horizon Europe projects.
-Based on the ordinance FIPBV (available in German, French & Italian) there are maximum salary
-rates for companies, including SME, as well as non-commercial research centres and institutions
-outside the university sector (Article 7). Also, funding can generally only be provided for costs
-that are incurred in Switzerland (exceptions laid out in Article 11 paragraph 5).
-SERI reserves the right to impose funding cuts should the costs of the Swiss participant be disproportionally and unreasonably high. This includes the right to mandate an external expert panel
-to review the Swiss project part.
-
-Q
-
-How can researchers and innovators, whose projects were positively evaluated by the European
-Commission, submit their funding request to the State Secretariat for Education, Research and
-Innovation (SERI)?
-To submit your funding request for a collaborative project, please check the SERI website on
-transitional measures and direct funding. All the necessary information and steps for preparing and submitting a funding application and the corresponding financial reports to SERI are
-provided there.
-
-7
-A
-
-Special conditions applying to units of the central federal administration are also indicated on the
-website, such as instructions and how to apply for funding for the specific mono-beneficiary
-projects.
-SERI highly recommends to get in touch with Euresearch concerning questions on the submission of proposals. For University or ETH domain participants, please refer to your Euresearch
-Regional Office and/or your institution’s research office. For participants from other institutions
-or companies, please refer directly to the Euresearch Network Office.
-
-Q
-
-8
-A
-
-Can researchers and innovators at an institution based in an EU Member State or associated
-country who have been awarded a grant in response to a call under Horizon Europe transfer it
-to Switzerland (either at the beginning of the grant or during its term) if the Grantee is appointed
-to a Swiss institution?
-Yes, this is possible (and notably applies to ERC grants). If Switzerland is an associated country
-by the time the grant is transferred, then the funding by the European Commission (EC) continues.
-If Switzerland is a non-associated third country by the time the grant is transferred, the State
-Secretariat for Education, Research and Innovation (SERI) would directly cover the remaining
-
-6/20
-
-cost under the same conditions as for other projects (e.g. 25% overhead costs). However, direct
-funding by SERI terminates in case a grant is transferred to an institution outside of Switzerland.
-
+     cost under the same conditions as for other projects (e.g. 25% overhead costs). However, direct
+     funding by SERI terminates in case a grant is transferred to an institution outside of Switzerland.
+   Q Who can support me as a researcher or innovator in my application for R&I funding in Horizon
+     Europe and related programmes and initiatives?
 9
-
-Q
-
-Who can support me as a researcher or innovator in my application for R&I funding in Horizon
-Europe and related programmes and initiatives?
-
-A
-
-The Euresearch network, which is mandated by SERI, will continue to support applicants in the
-preparation of proposals, either individually or by offering courses and webinars, for free.
-
-Q
-
-Are there further transitional measures beyond direct funding?
-Yes, SERI has initiated further transitional measures implemented by SNSF, Innosuisse and the
-European Space Agency (ESA) as follows:
-Implementing
-
-Instrument/Initiative
-
-institution
-
-10
-
-A
-
-Call year in EU
-programme
-
-SNSF
-
-SNSF Advanced Grants
-
-2021
-
-SNSF
-
-SNSF Starting Grants
-
-2022
-
-SNSF
-
-SNSF Consolidator Grants
-
-2022
-
-SNSF
-
-SNSF Swiss Postdoctoral Fellowships
-
-2021
-
-SNSF
-
-BRIDGE (joint programme with Innosuisse)
-
-2021
-
-Innosuisse
-
-Swiss Accelerator (upcoming)
-
-2022
-
-Innosuisse
-
-International opportunities
-
-2021
-
-Innosuisse
-
-Innovation projects
-
-2021
-
-Innosuisse
-
-Flagship Initiative
-
-2021
-
-Swiss Space Office
-
-PRODEX
-
-2021
-
-Swiss Space Office
-
-ARTES
-
-2021
-
-SERI has mandated the SNSF to implement suitable transitional solutions for the 2021 MSCA
-Postdoctoral Fellowships call, the 2021 ERC Advanced Grants call and the 2022 ERC Starting
-and Consolidator Grants calls (see questions 29 and 34). Furthermore, SERI is currently examining possible transitional measures for the 2022 ERC AdG to be initiated if Switzerland's status
-in Horizon Europe will not have changed by the end of April 2022. The corresponding measure
-would be foreseen for the second half of 2022. SERI will provide further information in due time.
-SERI is also strengthening innovation and space research. Innosuisse has now engaged in the
-Eureka clusters ITEA-4 and Xecs. In addition, innovation projects and systemic innovation in the
-framework of the Flagship Initiative will be strengthened at Innosuisse, as well as BRIDGE, as
-joint programme of SNSF and Innosuisse. At ESA, the funds will be used within the already
-running programmes Prodex and Artes.
-On 4 March 2022, the Federal Council also adopted transitional measures for the 2022 EIC
-Accelerator calls (covering all cut-offs). As part of the credit and budget process, the financial
-resources for these measures still need to be approved by Parliament. The revision of the Research and Innovation Promotion Act (RIPA) allows Innosuisse to offer a grant-based instrument
-for Swiss SME and start-ups as long as those cannot participate in the EIC Accelerator (see
-question 37).
-SERI is examining further transitional measures that could be initiated in 2022.
-
-7/20
-
-Q
-
-How should international organisations based in Switzerland submit their proposals to
-participate in Horizon Europe and related programmes and initiatives? Will they be funded by
-SERI or the EC?
-If not explicitly provided for in the work programme, international organisations are not automatically eligible for funding, even with headquarters in Member States or associated countries, with
-the notable exception of training and mobility actions (e.g. Marie Skłodowska-Curie actions, see
-EC FAQ).
-
-11
-A
-
-In general, an international organisation either submits as an ‘associated partner’ and needs to
-bear the cost itself or it submits as a ‘beneficiary’ and needs to justify in the proposal why its
-participation is essential for implementing the action. The EC then decides, whether the organisation’s contribution is essential and exceptional funding is provided by the EC.
-SERI will only provide funding for international organisations in those cases where the international organisation would be eligible for EC funding, were Switzerland associated to Horizon Europe.
-The conditions are different for international European research organisations as defined in Article 2(15) of the Horizon Europe Regulation (such as CERN), which are eligible for funding.
-
-8/20
-
-1.2 Collaborative Projects
-Please also take note of section 1.1 Generally applicable.
-
-Q
-
-12
-
-A
-
-Can legal entities (including companies and SME) based in Switzerland participate in
-collaborative projects?
-Legal entities (including companies and SME) based in Switzerland can still participate in collaborative projects open to non-associated third-country-participation and will receive funding via
-the State Secretariat for Education, Research and Innovation, as long as the general eligibility
-criteria are fulfilled (see question 19).
-Swiss project partners participate as ‘associated partners’ (which is not to be confused with the
-term ‘associated country’). This rule applies to all EU programmes (e.g. Euratom, DEP). For
-exceptions see question 17.
-
-13
-
-14
-
-Q
-
-As Switzerland is currently considered a non-associated third country, will participants based in
-Switzerland sign the grant agreement?
-
-A
-
-No, ‘associated partners’ do not sign the grant agreement. The legal status ‘beneficiaries not
-receiving EU funding’ is no longer foreseen in the Model Grant Agreement. Participants from
-non-associated third countries (not eligible for funding from the European Commission) are thus
-no longer classified as ‘beneficiaries not receiving EU funding’, but as ‘associated partners’.
-
-Q
-
-As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland able to coordinate projects?
-
-A
-
-No. In order to be coordinator of a project (or beneficiary), a legal entity must sign the grant
-agreement. Only entities eligible for funding can sign the grant agreement (which is not the case
-for ‘associated partners’, see question 13). Thus, Swiss entities could only become coordinators
-(or beneficiaries) in Horizon Europe actions in the two exceptional cases set out in Article 22(2)
-of the Horizon Europe Regulation:
-Either Switzerland is identified in the work programmes (call conditions) adopted by the Commission or the participation of a Swiss entity is considered essential for the execution of an action.
-
-Q
-
-As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland able to lead a work package?
-Yes, entities from non-associated third countries, participating as ‘associated partners’, are able
-to lead work packages.
-
-15
-
-16
-
-A
-
-However, currently the European Commission's (EC) grant management system SyGMa does
-not yet support ‘associated partners’ in this role. According to the EC, this feature will be introduced in an upcoming release, planned for the end of February 2022. Once implemented, projects still in the grant agreement preparation phase can make the change before signature of the
-grant agreement. If the grant agreement has already been signed, an amendment to the grant
-agreement would be necessary to update the Annex I (description of the action) accordingly.
-Please note also that ‘associated partners’ will not have edit rights in the system.
-
-Q
-
-As Switzerland is currently considered a non-associated third country, are participants based in
-Switzerland allowed to participate in Coordination and Support Actions (CSA)?
-
-A
-
-Yes, according to new guidance by the European Commission from January 2022, entities from
-non-associated third countries are eligible to participate in CSA as ‘associated partners’ (unless
-the work programme or the grant agreement lays down additional conditions, which must be met
-to participate in the action).
-
-9/20
-
-This rule is fully applicable under the current work programme. After the call deadline, Swiss
-partners can join projects as ‘associated partners’ at the discretion of the consortium and subject
-to approval by the granting authority on a case-by-case basis (see question 21 for general conditions to subsequently join a consortium and SERI funding in this context),
-
-Q
-
-17
-
-Is there any possibility for an institution from a non-associated third country to participate as
-beneficiary in a project and therefore also being eligible for direct funding from the EU?
-Legal entities established in a non-associated third country are not foreseen to participate as
-beneficiary in a project and therefore being eligible for direct funding from the EU (see question
-13). However, there are some exceptions. Legal entities established in a low to middle income
-non-associated third country are eligible for funding.
-
-A
-
-In addition, exceptionally, other non-associated third countries, are eligible for funding in an action if:
-a) the non-associated third country is identified in the work programme adopted by the European Commission; or
-b) the European Commission or the relevant funding body considers that the participation
-of the legal entity concerned is essential for implementing the action.
-
-Q
-
-What happens to partners based in Switzerland if the status changes from non-associated third
-country mode to Switzerland being an associated country?
-Projects with call identifier 2021 (meaning 2021 is included in the call ID on the Funding &
-Tenders Portal):
-
-18
-
-Project partners based in Switzerland who participate in a collaborative project as participants
-from a non-associated third country (and therefore receive funding via the State Secretariat for
-Education, Research and Innovation, SERI) will normally continue to receive funding from SERI
-for the entire duration of the project, unless a specific solution was found during the association
-negotiations between Switzerland and the European Commission (EC). In any case, the Swiss
-project partner will receive funding for the entire duration of the project (either by SERI or the
-EC).
-
-A
-
-Projects with call identifier 2022 (meaning 2022 is included in the call ID on the Funding &
-Tenders Portal):
-Switzerland is currently treated as a non-associated third country for project submissions for
-Horizon Europe and related programmes and initiatives. Swiss project partners, that have been
-positively evaluated by the EC, but are not financed by the EC, will receive funding from SERI.
-However, Switzerland's status in Horizon Europe can change at any time, as Switzerland’s rapid
-association to Horizon Europe and other related programmes and initiatives remains the Federal
-Council's declared goal.
-Please be aware that should Switzerland be reclassified by the EC as a ‘country to be associated’
-before the deadline of the corresponding calls, Swiss participants must change their status from
-‘associated partner’ to ‘beneficiary’ in the project proposal and apply for funding from the EC. In
-this case, the Swiss budget must be included in the total grant amount requested by the consortium from the EC.
-
-Q
-
-19
-
-A
-
-How many partners are needed in a collaborative project of Horizon Europe and how should the
-Swiss partner be counted in as non-associated third country?
-In general, a consortium of a collaborative project requires at least three different independent
-legal entities (including companies and SME) of which:
-a) at least one independent legal entity must be established in a Member State; and
-b) at least two other independent legal entities should each be established in different Member
-States or associated countries.
-
-10/20
-
-As Switzerland is considered a non-associated third country, the rule of three has to be fulfilled
-independent of the Swiss partner (see question 36 for exceptions for EIC Pathfinder and Transition).
-
-Q
-
-20
-
-Given that Switzerland is considered a non-associated third country, how should the Swiss
-partners prepare a budget request for the proposals?
-In the new generation of EU Programmes for Research and Innovation, entities from non-associated third countries participate as ‘associated partners’ in the collaborative projects (see question 13).
-
-A
-
-The budget of the ‘associated partner’ is indicated in the project proposal, but not taken into
-account in the project budget. For more information, please contact Euresearch.
-In the request for funding submitted to the State Secretariat for Education, Research and Innovation (SERI), the Swiss partner’s budget breakdown according to the cost categories of the
-European Commission will be required (see ‘Guidelines for financial reporting’ and question
-7).
-
-Q
-
-21
-
-22
-
-A
-
-Can Swiss participants join projects that are already running? Can these participants request
-funding from SERI?
-Yes, Swiss participants can join ongoing projects as long as the general eligibility criteria are
-fulfilled (see question 19). This requires an invitation by the consortium and is subject to approval of the granting authority. If the grant was already signed, the grant agreement will be
-amended.
-Further conditions need to be fulfilled for SERI to fund these participants. Only if the overall
-budget of the project, including the new Swiss partner, does not increase, the Swiss participant
-is eligible for SERI funding. The maximum grant amount cannot be exceeded and therefore only
-a reallocation of funds is permitted (and tasks), e.g. redistributing tasks of a ‘beneficiary’ leaving
-the consortium.
-
-Q
-
-Will there be an official letter confirming the financing of the Swiss partners by the State
-Secretariat for Education, Research and Innovation (SERI)?
-
-A
-
-Yes. The letters for the 2021 and the 2022 calls can be found on the SERI’s website.
-
-1.3 Partnerships
-Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
-
-Q
-
-23
-
-A
-
-What type of partnerships is Switzerland eligible for? Who will finance the Swiss participation?
-In any case, legal entities (including companies and SME) will be able to participate in all calls
-open to non-associated third countries that are published in the Horizon Europe work programme
-financed either by the European Commission or the State Secretariat for Education, Research
-and Innovation (SERI), as laid out in question 3 (all calls for co-programmed partnerships will
-be published as part of the main work programme).
-For the co-funded partnerships, legal entities based in Switzerland can only participate if national co-funding is provided by a Swiss funding agency or federal office.
-This also applies to institutionalised partnerships that require national co-funding.
-For calls launched by institutionalised partnerships that do not require national co-funding (e.g.
-Clean Aviation & Europe’s Rail), legal entities based in Switzerland are eligible and the (non-)
-
-11/20
-
-association determines the mode of financing. As Switzerland is now considered a non-associated third country, participants will receive funding via the State Secretariat for Education, Research and Innovation (SERI). For units of the central federal administration special conditions
-apply.
-
-24
-
-25
-
-Q
-
-Can Swiss entities participate in Eurostars calls?
-
-A
-
-Eurostars is integrated in the third pillar of Horizon Europe as a so-called co-funded partnership.
-Innosuisse provides national co-funding and thus Swiss entities can apply for calls of this partnership. More information can be found on the Innosuisse website.
-
-Q
-
-How can Swiss entities participate in the first calls of the partnership on Key Digital
-Technologies?
-
-A
-
-The State Secretariat for Education, Research and Innovation (SERI) and Innosuisse provide
-funding for Swiss participants in the first KDT JU calls (HORIZON-KDT-JU-2021-1 and
-HORIZON-KDT-JU-2021-2) with SERI covering the part that would otherwise be covered by the
-EU contribution and Innosuisse providing additional co-funding. Details on the funding conditions
-applied by Innosuisse can be found on their website.
-
-12/20
-
-1.4 European Research Council (ERC)
-Please also take note of section 1.1 Generally applicable.
-
-26
-
-27
-
-Q
-
-Can entities based in Switzerland participate in the ERC calls in a non-associated third country
-mode?
-
-A
-
-The participation in mono-beneficiary instruments of the ERC is by principle excluded as a nonassociated third country. However, for the 2021 calls for the ERC Starting Grants (StG) and the
-ERC Consolidator Grants (CoG; both already closed calls) an exception applies: Project proposals from researchers (Principal Investigators) based at Swiss host institutions are evaluated
-by the European Commission. If the project proposals are positively evaluated (an application
-on the so-called ‘main list’, selected for funding if the institution were eligible for EU-funding),
-projects grantees are awarded a ‘SERI-funded ERC Starting Grant’ or ‘SERI-funded ERC Consolidator Grant’ from SERI, if they carry out their project at an institution in Switzerland.
-
-Q
-
-Can entities based in Switzerland still participate in the Synergy grant calls in a non-associated
-third country mode?
-
-A
-
-Yes, researchers based in Switzerland can participate as part of a group of Principal Investigators (PIs) in the calls for the Synergy grant and will be funded by the European Commission.
-However, it should be taken into account that only one Principal Investigator per project can be
-hosted or engaged by an institution outside of the EU Member States or associated countries.
-
-Q
-
-Can an ERC Starting or Consolidator Grantee who has acquired the 2021 grant under Horizon
-Europe with a host institution based in an EU Member State or associated country transfer it to
-Switzerland (either at the beginning of the grant or during its term) if the Grantee is appointed to
-a Swiss university?
-
-A
-
-Yes, this is possible. If Switzerland is an associated country by the time the grant is transferred,
-then the funding by the European Commission continues. If Switzerland is a non-associated third
-country by the time the grant is transferred, then the State Secretariat for Education, Research
-and Innovation (SERI) would directly cover the (remaining) cost under the same conditions as
-the ERC (e.g. 25% overhead costs). However, direct funding by SERI terminates in case a grant
-is transferred to an institution outside of Switzerland.
-
-Q
-
-Which transitional measures are currently in place for the ERC calls?
-
-A
-
-As for the 2021 ERC Advanced Grants (AdG) call such as the 2022 ERC Starting (StG) and
-Consolidator Grants (CoG) calls, SERI has mandated the Swiss National Science Foundation
-(SNSF) to implement suitable transitional measures. These national instruments are aligned as
-closely as possible with the ERC, but with independent deadlines for submission (for more information, see the SNSF website).
-
-28
-
-29
-
-Furthermore, SERI is currently examining possible transitional measures for the 2022 ERC AdG
-to be initiated if Switzerland's status in Horizon Europe will not have changed by the end of April
-2022. The corresponding measure would be foreseen for the second half of 2022. SERI will
-provide further information in due time.
-
-13/20
-
-1.5 Marie-Skłodowska-Curie Actions (MSCA)
-Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
-
-Q
-
-In which MSCA are entities based in Switzerland eligible for participation with Switzerland being
-considered a non-associated third country?
-Actions
-•
-Postdoctoral
-Fellowship
-
-30
-
-Global Fellowship
-•
-European
-Fellowship
-
-A
-
-Not eligible for participation, but Swiss transitional measure in place (see question 34).
-Eligible for participation as ‘associated partner’
-(not as ‘beneficiary’ nor ‘implementing partner’).
-
-MSCA COFUND
-
-Doctoral
-Networks
-
-As a non-associated third country
-Eligible for participation as ‘associated partner’ (for outgoing phase at institution in Switzerland).
-Funded by beneficiary (EC budget).
-
-Standard
-Doctorates
-Joint Doctorates
-Industrial
-Doctorates
-
-Eligible for participation as ‘associated partner’.*
-
-Staff Exchanges
-
-Eligible for participation as ‘associated partner’.*
-
-MSCA & citizens
-
-Not eligible for participation.
-
-* Will be funded by the State Secretariat for Education, Research and Innovation (SERI), instead of the
-European Commission.
-
-31
-
-32
-33
-
+     The Euresearch network, which is mandated by SERI, will continue to support applicants in the
+   A
+     preparation of proposals, either individually or by offering courses and webinars, for free.
+   Q Are there further transitional measures beyond direct funding?
+     Yes, SERI has initiated further transitional measures implemented by SNSF, Innosuisse and the
+     European Space Agency (ESA) as follows:
+             Implementing                                                           Call year in EU
+                                                Instrument/Initiative
+               institution                                                            programme
+        SNSF                        SNSF Advanced Grants                                  2021
+        SNSF                        SNSF Starting Grants                                  2022
+        SNSF                        SNSF Consolidator Grants                              2022
+        SNSF                        SNSF Swiss Postdoctoral Fellowships                   2021
+        SNSF                        BRIDGE (joint programme with Innosuisse)              2021
+        Innosuisse                  Swiss Accelerator (upcoming)                          2022
+        Innosuisse                  International opportunities                           2021
+        Innosuisse                  Innovation projects                                   2021
+        Innosuisse                  Flagship Initiative                                   2021
+10      Swiss Space Office          PRODEX                                                2021
+   A    Swiss Space Office          ARTES                                                 2021
+     SERI has mandated the SNSF to implement suitable transitional solutions for the 2021 MSCA
+     Postdoctoral Fellowships call, the 2021 ERC Advanced Grants call and the 2022 ERC Starting
+     and Consolidator Grants calls (see questions 29 and 34). Furthermore, SERI is currently exam-
+     ining possible transitional measures for the 2022 ERC AdG to be initiated if Switzerland's status
+     in Horizon Europe will not have changed by the end of April 2022. The corresponding measure
+     would be foreseen for the second half of 2022. SERI will provide further information in due time.
+     SERI is also strengthening innovation and space research. Innosuisse has now engaged in the
+     Eureka clusters ITEA-4 and Xecs. In addition, innovation projects and systemic innovation in the
+     framework of the Flagship Initiative will be strengthened at Innosuisse, as well as BRIDGE, as
+     joint programme of SNSF and Innosuisse. At ESA, the funds will be used within the already
+     running programmes Prodex and Artes.
+     On 4 March 2022, the Federal Council also adopted transitional measures for the 2022 EIC
+     Accelerator calls (covering all cut-offs). As part of the credit and budget process, the financial
+     resources for these measures still need to be approved by Parliament. The revision of the Re-
+     search and Innovation Promotion Act (RIPA) allows Innosuisse to offer a grant-based instrument
+     for Swiss SME and start-ups as long as those cannot participate in the EIC Accelerator (see
+     question 37).
+     SERI is examining further transitional measures that could be initiated in 2022.
+                                                                                                         7/20
+
+     How should international organisations based in Switzerland submit their proposals to
+   Q participate in Horizon Europe and related programmes and initiatives? Will they be funded by
+     SERI or the EC?
+     If not explicitly provided for in the work programme, international organisations are not automat-
+     ically eligible for funding, even with headquarters in Member States or associated countries, with
+     the notable exception of training and mobility actions (e.g. Marie Skłodowska-Curie actions, see
+     EC FAQ).
+     In general, an international organisation either submits as an ‘associated partner’ and needs to
+11   bear the cost itself or it submits as a ‘beneficiary’ and needs to justify in the proposal why its
+     participation is essential for implementing the action. The EC then decides, whether the organi-
+   A sation’s contribution is essential and exceptional funding is provided by the EC.
+     SERI will only provide funding for international organisations in those cases where the interna-
+     tional organisation would be eligible for EC funding, were Switzerland associated to Horizon Eu-
+     rope.
+     The conditions are different for international European research organisations as defined in Ar-
+     ticle 2(15) of the Horizon Europe Regulation (such as CERN), which are eligible for funding.
+                                                                                                        8/20
+
+   1.2 Collaborative Projects
+   Please also take note of section 1.1 Generally applicable.
+      Q      Can legal entities (including companies and SME) based in Switzerland participate in
+             collaborative projects?
+             Legal entities (including companies and SME) based in Switzerland can still participate in collab-
+             orative projects open to non-associated third-country-participation and will receive funding via
+12           the State Secretariat for Education, Research and Innovation, as long as the general eligibility
+      A      criteria are fulfilled (see question 19).
+             Swiss project partners participate as ‘associated partners’ (which is not to be confused with the
+             term ‘associated country’). This rule applies to all EU programmes (e.g. Euratom, DEP). For
+             exceptions see question 17.
+      Q      As Switzerland is currently considered a non-associated third country, will participants based in
+             Switzerland sign the grant agreement?
+13           No, ‘associated partners’ do not sign the grant agreement. The legal status ‘beneficiaries not
+      A      receiving EU funding’ is no longer foreseen in the Model Grant Agreement. Participants from
+             non-associated third countries (not eligible for funding from the European Commission) are thus
+             no longer classified as ‘beneficiaries not receiving EU funding’, but as ‘associated partners’.
+             As Switzerland is currently considered a non-associated third country, are participants based in
+      Q
+             Switzerland able to coordinate projects?
+             No. In order to be coordinator of a project (or beneficiary), a legal entity must sign the grant
+             agreement. Only entities eligible for funding can sign the grant agreement (which is not the case
+14           for ‘associated partners’, see question 13). Thus, Swiss entities could only become coordinators
+      A      (or beneficiaries) in Horizon Europe actions in the two exceptional cases set out in Article 22(2)
+             of the Horizon Europe Regulation:
+             Either Switzerland is identified in the work programmes (call conditions) adopted by the Com-
+             mission or the participation of a Swiss entity is considered essential for the execution of an action.
+      Q      As Switzerland is currently considered a non-associated third country, are participants based in
+             Switzerland able to lead a work package?
+             Yes, entities from non-associated third countries, participating as ‘associated partners’, are able
+             to lead work packages.
+15           However, currently the European Commission's (EC) grant management system SyGMa does
+             not yet support ‘associated partners’ in this role. According to the EC, this feature will be intro-
+      A      duced in an upcoming release, planned for the end of February 2022. Once implemented, pro-
+             jects still in the grant agreement preparation phase can make the change before signature of the
+             grant agreement. If the grant agreement has already been signed, an amendment to the grant
+             agreement would be necessary to update the Annex I (description of the action) accordingly.
+             Please note also that ‘associated partners’ will not have edit rights in the system.
+      Q      As Switzerland is currently considered a non-associated third country, are participants based in
+             Switzerland allowed to participate in Coordination and Support Actions (CSA)?
+16           Yes, according to new guidance by the European Commission from January 2022, entities from
+      A      non-associated third countries are eligible to participate in CSA as ‘associated partners’ (unless
+             the work programme or the grant agreement lays down additional conditions, which must be met
+             to participate in the action).
+                                                                                                                    9/20
+
+     This rule is fully applicable under the current work programme. After the call deadline, Swiss
+     partners can join projects as ‘associated partners’ at the discretion of the consortium and subject
+     to approval by the granting authority on a case-by-case basis (see question 21 for general con-
+     ditions to subsequently join a consortium and SERI funding in this context),
+   Q Is there any possibility for an institution from a non-associated third country to participate as
+     beneficiary in a project and therefore also being eligible for direct funding from the EU?
+     Legal entities established in a non-associated third country are not foreseen to participate as
+     beneficiary in a project and therefore being eligible for direct funding from the EU (see question
+     13). However, there are some exceptions. Legal entities established in a low to middle income
+17   non-associated third country are eligible for funding.
+   A In addition, exceptionally, other non-associated third countries, are eligible for funding in an ac-
+     tion if:
+          a) the non-associated third country is identified in the work programme adopted by the Eu-
+              ropean Commission; or
+          b) the European Commission or the relevant funding body considers that the participation
+              of the legal entity concerned is essential for implementing the action.
+   Q What happens to partners based in Switzerland if the status changes from non-associated third
+     country mode to Switzerland being an associated country?
+     Projects with call identifier 2021 (meaning 2021 is included in the call ID on the Funding &
+     Tenders Portal):
+     Project partners based in Switzerland who participate in a collaborative project as participants
+     from a non-associated third country (and therefore receive funding via the State Secretariat for
+     Education, Research and Innovation, SERI) will normally continue to receive funding from SERI
+     for the entire duration of the project, unless a specific solution was found during the association
+     negotiations between Switzerland and the European Commission (EC). In any case, the Swiss
+     project partner will receive funding for the entire duration of the project (either by SERI or the
+     EC).
+18   Projects with call identifier 2022 (meaning 2022 is included in the call ID on the Funding &
+     Tenders Portal):
+   A
+     Switzerland is currently treated as a non-associated third country for project submissions for
+     Horizon Europe and related programmes and initiatives. Swiss project partners, that have been
+     positively evaluated by the EC, but are not financed by the EC, will receive funding from SERI.
+     However, Switzerland's status in Horizon Europe can change at any time, as Switzerland’s rapid
+     association to Horizon Europe and other related programmes and initiatives remains the Federal
+     Council's declared goal.
+     Please be aware that should Switzerland be reclassified by the EC as a ‘country to be associated’
+     before the deadline of the corresponding calls, Swiss participants must change their status from
+     ‘associated partner’ to ‘beneficiary’ in the project proposal and apply for funding from the EC. In
+     this case, the Swiss budget must be included in the total grant amount requested by the consor-
+     tium from the EC.
+   Q How many partners are needed in a collaborative project of Horizon Europe and how should the
+     Swiss partner be counted in as non-associated third country?
+19   In general, a consortium of a collaborative project requires at least three different independent
+     legal entities (including companies and SME) of which:
+   A
+     a) at least one independent legal entity must be established in a Member State; and
+     b) at least two other independent legal entities should each be established in different Member
+          States or associated countries.
+                                                                                                          10/20
+
+             As Switzerland is considered a non-associated third country, the rule of three has to be fulfilled
+             independent of the Swiss partner (see question 36 for exceptions for EIC Pathfinder and Tran-
+             sition).
+      Q      Given that Switzerland is considered a non-associated third country, how should the Swiss
+             partners prepare a budget request for the proposals?
+             In the new generation of EU Programmes for Research and Innovation, entities from non-asso-
+             ciated third countries participate as ‘associated partners’ in the collaborative projects (see ques-
+             tion 13).
+20           The budget of the ‘associated partner’ is indicated in the project proposal, but not taken into
+      A      account in the project budget. For more information, please contact Euresearch.
+             In the request for funding submitted to the State Secretariat for Education, Research and Inno-
+             vation (SERI), the Swiss partner’s budget breakdown according to the cost categories of the
+             European Commission will be required (see ‘Guidelines for financial reporting’ and question
+             7).
+      Q      Can Swiss participants join projects that are already running? Can these participants request
+             funding from SERI?
+             Yes, Swiss participants can join ongoing projects as long as the general eligibility criteria are
+             fulfilled (see question 19). This requires an invitation by the consortium and is subject to ap-
+             proval of the granting authority. If the grant was already signed, the grant agreement will be
+21           amended.
+      A      Further conditions need to be fulfilled for SERI to fund these participants. Only if the overall
+             budget of the project, including the new Swiss partner, does not increase, the Swiss participant
+             is eligible for SERI funding. The maximum grant amount cannot be exceeded and therefore only
+             a reallocation of funds is permitted (and tasks), e.g. redistributing tasks of a ‘beneficiary’ leaving
+             the consortium.
+      Q      Will there be an official letter confirming the financing of the Swiss partners by the State
+22           Secretariat for Education, Research and Innovation (SERI)?
+      A      Yes. The letters for the 2021 and the 2022 calls can be found on the SERI’s website.
+   1.3 Partnerships
+   Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
+      Q      What type of partnerships is Switzerland eligible for? Who will finance the Swiss participation?
+             In any case, legal entities (including companies and SME) will be able to participate in all calls
+             open to non-associated third countries that are published in the Horizon Europe work programme
+             financed either by the European Commission or the State Secretariat for Education, Research
+             and Innovation (SERI), as laid out in question 3 (all calls for co-programmed partnerships will
+23           be published as part of the main work programme).
+      A
+             For the co-funded partnerships, legal entities based in Switzerland can only participate if na-
+             tional co-funding is provided by a Swiss funding agency or federal office.
+             This also applies to institutionalised partnerships that require national co-funding.
+             For calls launched by institutionalised partnerships that do not require national co-funding (e.g.
+             Clean Aviation & Europe’s Rail), legal entities based in Switzerland are eligible and the (non-)
+                                                                                                                    11/20
+
+     association determines the mode of financing. As Switzerland is now considered a non-associ-
+     ated third country, participants will receive funding via the State Secretariat for Education, Re-
+     search and Innovation (SERI). For units of the central federal administration special conditions
+     apply.
+   Q Can Swiss entities participate in Eurostars calls?
+24   Eurostars is integrated in the third pillar of Horizon Europe as a so-called co-funded partnership.
+   A Innosuisse provides national co-funding and thus Swiss entities can apply for calls of this part-
+     nership. More information can be found on the Innosuisse website.
+   Q How can Swiss entities participate in the first calls of the partnership on Key Digital
+     Technologies?
+     The State Secretariat for Education, Research and Innovation (SERI) and Innosuisse provide
+25   funding for Swiss participants in the first KDT JU calls (HORIZON-KDT-JU-2021-1 and
+   A HORIZON-KDT-JU-2021-2) with SERI covering the part that would otherwise be covered by the
+     EU contribution and Innosuisse providing additional co-funding. Details on the funding conditions
+     applied by Innosuisse can be found on their website.
+                                                                                                         12/20
+
+   1.4 European Research Council (ERC)
+   Please also take note of section 1.1 Generally applicable.
+      Q      Can entities based in Switzerland participate in the ERC calls in a non-associated third country
+             mode?
+             The participation in mono-beneficiary instruments of the ERC is by principle excluded as a non-
+             associated third country. However, for the 2021 calls for the ERC Starting Grants (StG) and the
+26           ERC Consolidator Grants (CoG; both already closed calls) an exception applies: Project pro-
+      A      posals from researchers (Principal Investigators) based at Swiss host institutions are evaluated
+             by the European Commission. If the project proposals are positively evaluated (an application
+             on the so-called ‘main list’, selected for funding if the institution were eligible for EU-funding),
+             projects grantees are awarded a ‘SERI-funded ERC Starting Grant’ or ‘SERI-funded ERC Con-
+             solidator Grant’ from SERI, if they carry out their project at an institution in Switzerland.
+      Q      Can entities based in Switzerland still participate in the Synergy grant calls in a non-associated
+             third country mode?
+27           Yes, researchers based in Switzerland can participate as part of a group of Principal Investiga-
+      A      tors (PIs) in the calls for the Synergy grant and will be funded by the European Commission.
+             However, it should be taken into account that only one Principal Investigator per project can be
+             hosted or engaged by an institution outside of the EU Member States or associated countries.
+             Can an ERC Starting or Consolidator Grantee who has acquired the 2021 grant under Horizon
+      Q      Europe with a host institution based in an EU Member State or associated country transfer it to
+             Switzerland (either at the beginning of the grant or during its term) if the Grantee is appointed to
+             a Swiss university?
+28           Yes, this is possible. If Switzerland is an associated country by the time the grant is transferred,
+             then the funding by the European Commission continues. If Switzerland is a non-associated third
+      A      country by the time the grant is transferred, then the State Secretariat for Education, Research
+             and Innovation (SERI) would directly cover the (remaining) cost under the same conditions as
+             the ERC (e.g. 25% overhead costs). However, direct funding by SERI terminates in case a grant
+             is transferred to an institution outside of Switzerland.
+      Q      Which transitional measures are currently in place for the ERC calls?
+             As for the 2021 ERC Advanced Grants (AdG) call such as the 2022 ERC Starting (StG) and
+             Consolidator Grants (CoG) calls, SERI has mandated the Swiss National Science Foundation
+             (SNSF) to implement suitable transitional measures. These national instruments are aligned as
+29           closely as possible with the ERC, but with independent deadlines for submission (for more infor-
+      A      mation, see the SNSF website).
+             Furthermore, SERI is currently examining possible transitional measures for the 2022 ERC AdG
+             to be initiated if Switzerland's status in Horizon Europe will not have changed by the end of April
+             2022. The corresponding measure would be foreseen for the second half of 2022. SERI will
+             provide further information in due time.
+                                                                                                                  13/20
+
+   1.5 Marie-Skłodowska-Curie Actions (MSCA)
+   Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
+             In which MSCA are entities based in Switzerland eligible for participation with Switzerland being
+      Q
+             considered a non-associated third country?
+                                Actions                             As a non-associated third country
+                                                              •    Eligible for participation as ‘associated part-
+                                                                   ner’ (for outgoing phase at institution in Swit-
+                                     Global Fellowship             zerland).
+               Postdoctoral
+                                                              •    Funded by beneficiary (EC budget).
+               Fellowship
+                                     European                 Not eligible for participation, but Swiss transi-
+                                     Fellowship               tional measure in place (see question 34).
+30             MSCA COFUND
+                                                              Eligible for participation as ‘associated partner’
+                                                              (not as ‘beneficiary’ nor ‘implementing partner’).
+      A
+                                     Standard
+                                     Doctorates
+               Doctoral
+                                     Joint Doctorates         Eligible for participation as ‘associated partner’.*
+               Networks
+                                     Industrial
+                                     Doctorates
+               Staff Exchanges                                Eligible for participation as ‘associated partner’.*
+               MSCA & citizens                                Not eligible for participation.
+             * Will be funded by the State Secretariat for Education, Research and Innovation (SERI), instead of the
+             European Commission.
+      Q      Can entities based in Switzerland participate in MSCA collaborative projects?
+             Yes, despite Switzerland currently being considered a non-associated third country in Horizon
+31           Europe, organisations based in Switzerland can participate in MSCA Doctoral Networks (former
+      A      ITN) and MSCA Staff Exchanges as ‘associated partners’. The Swiss project partner will not be
+             funded by the European Commission but by the State Secretariat for Education, Research and
+             Innovation (see question 12).
+      Q      Can MSCA collaborative projects be coordinated by ‘associated partners’?
+32           No, this is not possible. Only beneficiaries (who receive funding from the EU) can coordinate the
+      A      collaborative projects MSCA Doctoral Networks (former ITN) and MSCA Staff Exchanges (see
+             question 14).
+      Q      What happens to MSCA collaborative projects if Switzerland’s status changes from non-
+33           associated third country mode to Switzerland being an associated country?
+      A      Please see question 18.
+      Q      Which transitional measures are currently in place for the MSCA mono-beneficiary calls?
+             Participation in mono-beneficiary projects such as MSCA Postdoctoral Fellowships and MSCA
+             & citizens is not open to non-associated third countries such as Switzerland.
 34
-
-Q
-
-Can entities based in Switzerland participate in MSCA collaborative projects?
-
-A
-
-Yes, despite Switzerland currently being considered a non-associated third country in Horizon
-Europe, organisations based in Switzerland can participate in MSCA Doctoral Networks (former
-ITN) and MSCA Staff Exchanges as ‘associated partners’. The Swiss project partner will not be
-funded by the European Commission but by the State Secretariat for Education, Research and
-Innovation (see question 12).
-
-Q
-
-Can MSCA collaborative projects be coordinated by ‘associated partners’?
-
-A
-
-No, this is not possible. Only beneficiaries (who receive funding from the EU) can coordinate the
-collaborative projects MSCA Doctoral Networks (former ITN) and MSCA Staff Exchanges (see
-question 14).
-
-Q
-
-What happens to MSCA collaborative projects if Switzerland’s status changes from nonassociated third country mode to Switzerland being an associated country?
-
-A
-Q
-
-Please see question 18.
-Which transitional measures are currently in place for the MSCA mono-beneficiary calls?
-Participation in mono-beneficiary projects such as MSCA Postdoctoral Fellowships and MSCA
-& citizens is not open to non-associated third countries such as Switzerland.
-
-A
-
-The State Secretariat for Education, Research and Innovation (SERI) has mandated the Swiss
-National Science Foundation (SNSF) to implement a suitable transitional measure for the 2021
-MSCA Postdoctoral Fellowships call. This instrument is aligned as closely as possible with
-MSCA but with independent deadlines for submission (see SNSF website).
-
-14/20
-
-1.6 European Innovation Council (EIC)
-Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
-
-35
-
-Q
-
-Can Swiss SME participate in the EIC Accelerator?
-
-A
-
-No, with Switzerland being considered a non-associated third country, Swiss companies cannot
-apply to the EIC Accelerator. Proposals will be deemed ineligible and will not be evaluated.
-
-Q
-
-As a non-associated third country, can Swiss entities participate as applicants in EIC Pathfinder
-and EIC Transition (collaborative) projects?
-The Federal Decree on the Financing of the Horizon package 2021-2027 allows for funding of
-researchers and innovators based in Switzerland, even if Switzerland is not or only partially associated. This applies in Switzerland’s current status of non-associated third country.
-Researchers and innovators who take part in collaborative projects open to non-associated third
-country participation, will receive funding via the State Secretariat for Education, Research and
-Innovation. This also applies to the EIC Pathfinder and EIC Transition.
-
-36
-
-However, the general eligibility criteria have to be fulfilled independent of the Swiss partner (see
-question 19). EIC Transition and some EIC Pathfinder Challenges allow for the application of
-small consortia or single entities, which offer the following options for Swiss participants:
-
-A
-
-•
-
-•
-
-•
-
-•
-
-37
-
-A mono-beneficiary application from a Member State or associated country with an ‘associated partner’ from Switzerland is eligible if all the other eligibility criteria of admissibility and
-eligibility are fulfilled.
-A two-beneficiary proposal (two independent legal entities from two different Member States
-or associated countries) with an ‘associated partner’ from Switzerland is eligible, if all the
-other eligibility criteria of admissibility and eligibility are fulfilled.
-A three-beneficiary proposal (with at least three independent legal entities each established
-in a different Member State or associated country and at least one of them established in a
-Member State) with an ‘associated partner’ from Switzerland is eligible.
-Eligible is also a proposal with the maximum number of beneficiaries (5 legal entities) with
-an ‘associated partner’ from Switzerland (to make a total of 6), if all the other eligibility criteria
-of admissibility and eligibility are fulfilled. It would make a consortium of 5 for the consideration of the eligibility of the proposal.
-
-Q
-
-How will the transitional measures for the 2022 EIC Accelerator calls be implemented?
-
-A
-
-The new grant-based mono-beneficiary instrument will be closely aligned to the EIC Accelerator
-and targets a similar company-profile. SME and start-ups in Switzerland will be eligible for participation. Innosuisse will publish a specific call for proposals for the ‘Swiss Accelerator’ on 1 April
-2022. More information will follow on the SERI and Innosuisse website in due time.
-
-15/20
-
-1.7 European Institute of Innovation and Technology (EIT)
-Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
-
-Q
-
-38
-A
-
-39
-
-40
-
-41
-
-42
-
-Will Swiss partners (including companies and SME) participating in activities of the EIT and its
-KICs receive funding from the Swiss authorities as long as Switzerland is considered a nonassociated third country?
-In general, the financial dispatch for Horizon Europe covers a participation as a non-associated
-third country for all pillars and instruments. As such, Swiss partners in projects of the EIT and its
-KICs are eligible for funding.
-As the financial dispatch as such foresees funding for research and innovation projects, the State
-Secretariat for Education, Research and Innovation (SERI) cannot guarantee that all activities of
-the KICs will be eligible, notably if they lack the required research/innovation dimension.
-
-Q
-
-What happens to EIT projects from researchers and innovators based in Switzerland that have
-already been submitted and will be implemented under Horizon Europe?
-
-A
-
-In general, EIT projects will continue to be evaluated. As Switzerland is considered a non-associated third country, no EIT funding will be disbursed to Swiss entities in 2021 and 2022. For
-projects already positively evaluated, the State Secretariat for Education, Research and Innovation will provide direct funding. Funding requests can be submitted as detailed in question 7.
-
-Q
-
-Can Swiss entities coordinate projects, i.e. act as Activity Leader in projects of the EIT KICs?
-
-A
-
-The rules may vary between the different KICs. However, there is no general rule that Swiss
-participants cannot act as Activity Leader and thus coordinate projects.
-
-Q
-
-Can Swiss entities join a consortium applying for the call for a new KIC in Cultural & Creative
-Sectors and Industries (CCSI)?
-
-A
-
-Yes, the call will result in the selection and designation of a new KIC, which can include Swiss
-participants, even if Switzerland is not associated to Horizon Europe when the new KIC is established.
-
-Q
-
-What further information on the budget does SERI need from the Swiss partner upon submission
-of an EIT project for direct funding? How will the funding rate be determined?
-
-A
-
-Upon submitting a funding request (see question 7) for EIT projects, the State Secretariat for
-Education, Research and Innovation (SERI) requires confirmation on which part of the costs
-would have been covered by EIT funding, if Switzerland were associated. Ideally, this should be
-confirmed directly by the KIC. SERI will then apply the same funding rate.
-
-16/20
-
-2
-
-43
-
-44
-
-Digital Europe Programme (DEP)
-Q
-
-Is Switzerland going to be associated to the Digital Europe Programme?
-
-A
-
-The Digital Europe Programme is a new EU funding programme that will run in parallel and in
-complement to Horizon Europe. Switzerland has the intention to be fully associated to the programme and has initiated all steps on the Swiss side as part of the Horizon package, to initiate
-association negotiations, which have not started yet.
-
-Q
-
-Can entities based in Switzerland apply to the Digital Europe Programme (DEP) although
-Switzerland is not associated to the DEP?
-
-A
-
-In general, countries not associated to the DEP are not eligible to participate in the projects. In
-exceptional cases and provided that their participation is ‘necessary’ to achieve the objectives of
-the Programme’ (article 18.2 DEP Regulation), entities based in Switzerland can participate. This
-applies to all types of actions (including Coordination and Support Actions (CSA), procurement,
-simple grants and SME support grants) that do not have restrictions on the basis of article 12.5
-or 12.6 DEP Regulation.
-The applicants/consortium have to mention and demonstrate such a ‘necessity’ to achieve the
-objectives of the Programme’ during the proposal phase without knowing beforehand whether
-an exception can be granted. In this sense, the applicants/consortium have to justify that no
-equivalent partner exists in the EU to reach the same objectives.
-Should the proposal be positively evaluated, the entity based in Switzerland will not receive funding from the European Commission, but from the State Secretariat for Education, Research and
-Innovation (SERI), unless specified otherwise in the work programmes.
-
-Q
-
-What are the consequences if the contribution of an entity based in a country not associated to
-the Programme (such as Switzerland) is not deemed ‘necessary’ to achieve the objectives of
-the Programme in the evaluation phase?
-In case participation of such an entity is not deemed ‘necessary’, the consortium is allowed to
-replace the partner, provided that the replacement does not modify the proposal significantly
-(e.g. to the point that it would have scored differently during evaluation).
-
-45
-A
-
-Consortia have about 6-8 weeks to make adjustments after the start of grant agreement preparation. This timing is indicative and can vary from one case to another due to different circumstances.
-The consortium could split up the task of the partner from the non-associated country. However,
-such a new distribution will not increase the maximum grant amount following evaluation, even
-if the costs for the partners increase.
-
-46
-
-Q
-
-Is there already an indication of funding rates regarding the participation in a project in the Digital
-Europe Programme (DEP)?
-
-A
-
-Project funding under the DEP will typically require national co-funding, which means that the
-costs for a project may not be fully covered by the DEP. Typically, a funding rate of 50% will
-apply for grants (see work programmes published on 10 November 2021).
-
-17/20
-
-3
-
-Euratom & ITER
-Q
-
-47
-
-A
-
-Can researchers and innovators in Switzerland participate in the current generation of the
-Euratom Research and Training Programme?
-Switzerland is currently not associated to Horizon Europe and the Euratom Research and Training Programme and is therefore considered a non-associated third country. General rules for
-participation for non-associated third countries described in section 1.1 and 1.2 and the provisions outlined in the Euratom work programme apply to entities and persons based in Switzerland until an association agreement between Switzerland and the EU has been concluded.
-Same as for Horizon Europe, researchers and innovators based in Switzerland can take part in
-the Euratom programme’s collaborative projects open to participation of non-associated third
-countries and will receive their funding directly via the State Secretariat for Education, Research
-and Innovation SERI (see question 12).
-
-Q
-
-48
-
-A
-
-4
-
-49
-
-Does the Federal Council seek full association to the Euratom Research and Training
-Programme and a continuation of Switzerland’s participation in ITER?
-Yes, in connection with a full association to Horizon Europe and the Digital Europe Programme,
-the Federal Council also seeks full association to the Euratom Research and Training Programme and aims to continue Switzerland’s participation in ITER.
-Currently, however, the conditions for non-associated third countries described in section 1.1
-and 1.2 apply until an association agreement between Switzerland and the EU has been concluded. As for what concerns the construction of ITER, the EU no longer considers Switzerland
-a participating state.
-
-European Defence Fund (EDF)
-Q
-
-Can Switzerland participate in the European Defence Fund programme?
-
-A
-
-No, the European Defence Fund is open for association only to members of the European Economic Area.
-
-18/20
-
-5
-
-50
-
-Horizon 2020
-Q
-
-As Switzerland is currently not associated to Horizon Europe, what will happen to the Swiss
-partner(s) in the ongoing Horizon 2020 projects?
-
-A
-
-Not being associated to Horizon Europe has no influence on ongoing Horizon 2020 projects,
-even after 2020. Switzerland remains associated to Horizon 2020, independently of its participation mode in Horizon Europe. This is also independent of the signature date of the grant agreement.
-
-Q
-
-As Switzerland is currently not associated to Horizon Europe, can a Swiss partner join an ongoing
-Horizon 2020 project (e.g. to replace a missing partner) and get EU funding? Would the Swiss
-partner in this case be considered as an entity from an «associated country»?
-
-A
-
-Yes and yes. Switzerland pays its contribution to the EU budget upfront, i.e. to the very budget,
-from which the European Commission funds projects in Horizon 2020. Switzerland has thus paid
-its entire contribution to a call at the time any Horizon 2020 project is funded and Swiss participants are therefore eligible for funding in all Horizon 2020 projects. Not being associated to Horizon Europe has no influence on ongoing Horizon 2020 projects, even after 2020. Switzerland
-remains associated to Horizon 2020, independently of its participation mode in Horizon Europe.
-
-Q
-
-As Switzerland is currently not associated to Horizon Europe, can Swiss entities participate and
-get funding from Financial Support to third parties calls from Horizon 2020 projects?
-
-A
-
-Yes. Not being associated to Horizon Europe has no influence on ongoing Horizon 2020 projects,
-even after 2020. Switzerland remains associated to Horizon 2020, independently of its participation mode in Horizon Europe.
-
-Q
-
-Does Brexit affect the current Horizon 2020 projects with UK partners / coordinators?
-
-A
-
-UK scientists, researchers and businesses can continue to participate in, bid for and lead projects
-in Horizon 2020. The UK is considered as if it were a Member State under Horizon 2020.
-
-Q
-
-As Switzerland is currently not associated to Horizon Europe, is there any risk that running
-projects under Horizon 2020 with Principal Investigators (PIs) from Switzerland will have to be
-terminated or modified (PI converted to team member, projects that do not fulfil the eligibility
-criteria)?
-
-A
-
-No, there is no risk. Switzerland is associated to Horizon 2020 and the conditions for projects
-running under the Horizon 2020 rules will remain the same until the end of the projects, even
-after 2020.
-
-Q
-
-As Switzerland is currently not associated to Horizon Europe, will a researcher holding a Horizon
-2020 ERC grant be allowed to move this ERC project to an institution based in Switzerland?
-
-A
-
-Yes, all ERC grants that were submitted when Switzerland was associated to Horizon 2020 at
-the time of the respective call deadline, can be moved. Not being associated to Horizon Europe
-has no influence on ongoing Horizon 2020 projects, even after 2020.
-
-Q
-
-As Switzerland is currently not associated to Horizon Europe, how would this affect the eligibility
-of Swiss-based researchers and innovators to participate in Horizon 2020 ERA-NET calls
-(including calls for proposals)?
-
-51
-
-52
-
+      A      The State Secretariat for Education, Research and Innovation (SERI) has mandated the Swiss
+             National Science Foundation (SNSF) to implement a suitable transitional measure for the 2021
+             MSCA Postdoctoral Fellowships call. This instrument is aligned as closely as possible with
+             MSCA but with independent deadlines for submission (see SNSF website).
+                                                                                                                     14/20
+
+   1.6 European Innovation Council (EIC)
+   Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
+      Q      Can Swiss SME participate in the EIC Accelerator?
+35           No, with Switzerland being considered a non-associated third country, Swiss companies cannot
+      A      apply to the EIC Accelerator. Proposals will be deemed ineligible and will not be evaluated.
+      Q      As a non-associated third country, can Swiss entities participate as applicants in EIC Pathfinder
+             and EIC Transition (collaborative) projects?
+             The Federal Decree on the Financing of the Horizon package 2021-2027 allows for funding of
+             researchers and innovators based in Switzerland, even if Switzerland is not or only partially as-
+             sociated. This applies in Switzerland’s current status of non-associated third country.
+             Researchers and innovators who take part in collaborative projects open to non-associated third
+             country participation, will receive funding via the State Secretariat for Education, Research and
+             Innovation. This also applies to the EIC Pathfinder and EIC Transition.
+             However, the general eligibility criteria have to be fulfilled independent of the Swiss partner (see
+             question 19). EIC Transition and some EIC Pathfinder Challenges allow for the application of
+             small consortia or single entities, which offer the following options for Swiss participants:
+36           •    A mono-beneficiary application from a Member State or associated country with an ‘associ-
+      A           ated partner’ from Switzerland is eligible if all the other eligibility criteria of admissibility and
+                  eligibility are fulfilled.
+             •    A two-beneficiary proposal (two independent legal entities from two different Member States
+                  or associated countries) with an ‘associated partner’ from Switzerland is eligible, if all the
+                  other eligibility criteria of admissibility and eligibility are fulfilled.
+             •    A three-beneficiary proposal (with at least three independent legal entities each established
+                  in a different Member State or associated country and at least one of them established in a
+                  Member State) with an ‘associated partner’ from Switzerland is eligible.
+             •    Eligible is also a proposal with the maximum number of beneficiaries (5 legal entities) with
+                  an ‘associated partner’ from Switzerland (to make a total of 6), if all the other eligibility criteria
+                  of admissibility and eligibility are fulfilled. It would make a consortium of 5 for the considera-
+                  tion of the eligibility of the proposal.
+      Q      How will the transitional measures for the 2022 EIC Accelerator calls be implemented?
+37           The new grant-based mono-beneficiary instrument will be closely aligned to the EIC Accelerator
+      A      and targets a similar company-profile. SME and start-ups in Switzerland will be eligible for par-
+             ticipation. Innosuisse will publish a specific call for proposals for the ‘Swiss Accelerator’ on 1 April
+             2022. More information will follow on the SERI and Innosuisse website in due time.
+                                                                                                                         15/20
+
+   1.7 European Institute of Innovation and Technology (EIT)
+   Please also take note of sections 1.1 Generally applicable and 1.2 Collaborative projects.
+             Will Swiss partners (including companies and SME) participating in activities of the EIT and its
+      Q      KICs receive funding from the Swiss authorities as long as Switzerland is considered a non-
+             associated third country?
+             In general, the financial dispatch for Horizon Europe covers a participation as a non-associated
+38           third country for all pillars and instruments. As such, Swiss partners in projects of the EIT and its
+             KICs are eligible for funding.
+      A
+             As the financial dispatch as such foresees funding for research and innovation projects, the State
+             Secretariat for Education, Research and Innovation (SERI) cannot guarantee that all activities of
+             the KICs will be eligible, notably if they lack the required research/innovation dimension.
+      Q      What happens to EIT projects from researchers and innovators based in Switzerland that have
+             already been submitted and will be implemented under Horizon Europe?
+39           In general, EIT projects will continue to be evaluated. As Switzerland is considered a non-asso-
+             ciated third country, no EIT funding will be disbursed to Swiss entities in 2021 and 2022. For
+      A
+             projects already positively evaluated, the State Secretariat for Education, Research and Innova-
+             tion will provide direct funding. Funding requests can be submitted as detailed in question 7.
+      Q      Can Swiss entities coordinate projects, i.e. act as Activity Leader in projects of the EIT KICs?
+40           The rules may vary between the different KICs. However, there is no general rule that Swiss
+      A
+             participants cannot act as Activity Leader and thus coordinate projects.
+      Q      Can Swiss entities join a consortium applying for the call for a new KIC in Cultural & Creative
+             Sectors and Industries (CCSI)?
+41           Yes, the call will result in the selection and designation of a new KIC, which can include Swiss
+      A      participants, even if Switzerland is not associated to Horizon Europe when the new KIC is estab-
+             lished.
+      Q      What further information on the budget does SERI need from the Swiss partner upon submission
+             of an EIT project for direct funding? How will the funding rate be determined?
+42           Upon submitting a funding request (see question 7) for EIT projects, the State Secretariat for
+             Education, Research and Innovation (SERI) requires confirmation on which part of the costs
+      A
+             would have been covered by EIT funding, if Switzerland were associated. Ideally, this should be
+             confirmed directly by the KIC. SERI will then apply the same funding rate.
+                                                                                                                   16/20
+
+   2   Digital Europe Programme (DEP)
+     Q Is Switzerland going to be associated to the Digital Europe Programme?
+43     The Digital Europe Programme is a new EU funding programme that will run in parallel and in
+       complement to Horizon Europe. Switzerland has the intention to be fully associated to the pro-
+     A
+       gramme and has initiated all steps on the Swiss side as part of the Horizon package, to initiate
+       association negotiations, which have not started yet.
+     Q Can entities based in Switzerland apply to the Digital Europe Programme (DEP) although
+       Switzerland is not associated to the DEP?
+       In general, countries not associated to the DEP are not eligible to participate in the projects. In
+       exceptional cases and provided that their participation is ‘necessary’ to achieve the objectives of
+       the Programme’ (article 18.2 DEP Regulation), entities based in Switzerland can participate. This
+       applies to all types of actions (including Coordination and Support Actions (CSA), procurement,
+       simple grants and SME support grants) that do not have restrictions on the basis of article 12.5
+44     or 12.6 DEP Regulation.
+     A The applicants/consortium have to mention and demonstrate such a ‘necessity’ to achieve the
+       objectives of the Programme’ during the proposal phase without knowing beforehand whether
+       an exception can be granted. In this sense, the applicants/consortium have to justify that no
+       equivalent partner exists in the EU to reach the same objectives.
+       Should the proposal be positively evaluated, the entity based in Switzerland will not receive fund-
+       ing from the European Commission, but from the State Secretariat for Education, Research and
+       Innovation (SERI), unless specified otherwise in the work programmes.
+       What are the consequences if the contribution of an entity based in a country not associated to
+     Q the Programme (such as Switzerland) is not deemed ‘necessary’ to achieve the objectives of
+       the Programme in the evaluation phase?
+       In case participation of such an entity is not deemed ‘necessary’, the consortium is allowed to
+       replace the partner, provided that the replacement does not modify the proposal significantly
+45     (e.g. to the point that it would have scored differently during evaluation).
+       Consortia have about 6-8 weeks to make adjustments after the start of grant agreement prepa-
+     A ration. This timing is indicative and can vary from one case to another due to different circum-
+       stances.
+       The consortium could split up the task of the partner from the non-associated country. However,
+       such a new distribution will not increase the maximum grant amount following evaluation, even
+       if the costs for the partners increase.
+     Q Is there already an indication of funding rates regarding the participation in a project in the Digital
+       Europe Programme (DEP)?
+46     Project funding under the DEP will typically require national co-funding, which means that the
+     A costs for a project may not be fully covered by the DEP. Typically, a funding rate of 50% will
+       apply for grants (see work programmes published on 10 November 2021).
+                                                                                                               17/20
+
+   3   Euratom & ITER
+     Q Can researchers and innovators in Switzerland participate in the current generation of the
+       Euratom Research and Training Programme?
+       Switzerland is currently not associated to Horizon Europe and the Euratom Research and Train-
+       ing Programme and is therefore considered a non-associated third country. General rules for
+       participation for non-associated third countries described in section 1.1 and 1.2 and the provi-
+47     sions outlined in the Euratom work programme apply to entities and persons based in Switzer-
+     A land until an association agreement between Switzerland and the EU has been concluded.
+       Same as for Horizon Europe, researchers and innovators based in Switzerland can take part in
+       the Euratom programme’s collaborative projects open to participation of non-associated third
+       countries and will receive their funding directly via the State Secretariat for Education, Research
+       and Innovation SERI (see question 12).
+     Q Does the Federal Council seek full association to the Euratom Research and Training
+       Programme and a continuation of Switzerland’s participation in ITER?
+       Yes, in connection with a full association to Horizon Europe and the Digital Europe Programme,
+       the Federal Council also seeks full association to the Euratom Research and Training Pro-
+48     gramme and aims to continue Switzerland’s participation in ITER.
+     A Currently, however, the conditions for non-associated third countries described in section 1.1
+       and 1.2 apply until an association agreement between Switzerland and the EU has been con-
+       cluded. As for what concerns the construction of ITER, the EU no longer considers Switzerland
+       a participating state.
+   4   European Defence Fund (EDF)
+     Q Can Switzerland participate in the European Defence Fund programme?
+49     No, the European Defence Fund is open for association only to members of the European Eco-
+     A
+       nomic Area.
+                                                                                                           18/20
+
+   5   Horizon 2020
+     Q As Switzerland is currently not associated to Horizon Europe, what will happen to the Swiss
+       partner(s) in the ongoing Horizon 2020 projects?
+50     Not being associated to Horizon Europe has no influence on ongoing Horizon 2020 projects,
+       even after 2020. Switzerland remains associated to Horizon 2020, independently of its participa-
+     A
+       tion mode in Horizon Europe. This is also independent of the signature date of the grant agree-
+       ment.
+       As Switzerland is currently not associated to Horizon Europe, can a Swiss partner join an ongoing
+     Q Horizon 2020 project (e.g. to replace a missing partner) and get EU funding? Would the Swiss
+       partner in this case be considered as an entity from an «associated country»?
+51     Yes and yes. Switzerland pays its contribution to the EU budget upfront, i.e. to the very budget,
+       from which the European Commission funds projects in Horizon 2020. Switzerland has thus paid
+       its entire contribution to a call at the time any Horizon 2020 project is funded and Swiss partici-
+     A
+       pants are therefore eligible for funding in all Horizon 2020 projects. Not being associated to Hori-
+       zon Europe has no influence on ongoing Horizon 2020 projects, even after 2020. Switzerland
+       remains associated to Horizon 2020, independently of its participation mode in Horizon Europe.
+     Q As Switzerland is currently not associated to Horizon Europe, can Swiss entities participate and
+       get funding from Financial Support to third parties calls from Horizon 2020 projects?
+52     Yes. Not being associated to Horizon Europe has no influence on ongoing Horizon 2020 projects,
+     A even after 2020. Switzerland remains associated to Horizon 2020, independently of its participa-
+       tion mode in Horizon Europe.
+     Q Does Brexit affect the current Horizon 2020 projects with UK partners / coordinators?
 53
-
-54
-
+     A UK scientists, researchers and businesses can continue to participate in, bid for and lead projects
+       in Horizon 2020. The UK is considered as if it were a Member State under Horizon 2020.
+       As Switzerland is currently not associated to Horizon Europe, is there any risk that running
+     Q projects under Horizon 2020 with Principal Investigators (PIs) from Switzerland will have to be
+       terminated or modified (PI converted to team member, projects that do not fulfil the eligibility
+54     criteria)?
+       No, there is no risk. Switzerland is associated to Horizon 2020 and the conditions for projects
+     A running under the Horizon 2020 rules will remain the same until the end of the projects, even
+       after 2020.
+     Q As Switzerland is currently not associated to Horizon Europe, will a researcher holding a Horizon
+       2020 ERC grant be allowed to move this ERC project to an institution based in Switzerland?
 55
+       Yes, all ERC grants that were submitted when Switzerland was associated to Horizon 2020 at
+     A the time of the respective call deadline, can be moved. Not being associated to Horizon Europe
+       has no influence on ongoing Horizon 2020 projects, even after 2020.
+       As Switzerland is currently not associated to Horizon Europe, how would this affect the eligibility
+56   Q of Swiss-based researchers and innovators to participate in Horizon 2020 ERA-NET calls
+       (including calls for proposals)?
+                                                                                                            19/20
 
-56
+  Participants of Horizon 2020 ERA-NETs are not affected. Switzerland remains associated to
+A Horizon 2020, independently of the participation mode in Horizon Europe. As for Horizon Europe,
+  ERA-NETs will be integrated into the partnership landscape (see section 1.3).
+                                                                                                  20/20
 
-19/20
-
-A
-
-Participants of Horizon 2020 ERA-NETs are not affected. Switzerland remains associated to
-Horizon 2020, independently of the participation mode in Horizon Europe. As for Horizon Europe,
-ERA-NETs will be integrated into the partnership landscape (see section 1.3).
-
-20/20
-
-
