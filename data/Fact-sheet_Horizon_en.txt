@@ -1,0 +1,404 @@
+Federal Department of Economic Affairs,
+Education and Research EAER
+State Secretariat for Education,
+Research and Innovation SERI
+EU Framework Programmes
+
+Status Update: Swiss participation in Horizon Europe and related
+programmes and initiatives
+Information as of 4 March 2022
+The State Secretariat for Education, Research and Innovation (SERI) provides regular updates
+on Switzerland's participation in the EU Framework Programmes for Research and Innovation
+Horizon Europe and Horizon 2020:
+Main changes have been made in the sections marked with
+
+.
+
+ The State Secretariat for Education, Research and Innovation (SERI) informed the European
+Commission (EC) about the developments regarding Switzerland's second contribution, in
+view of opening association negotiations. In a response letter, the EC stated that at this point
+in time they are not in a position to discuss the next steps towards association exploratory
+talks and negotiations.
+ In this context and following the information received from the EC, Switzerland will continue
+to be considered a non-associated third country for the submission of project proposals in
+Horizon Europe and related programmes and initiatives. This applies to Horizon Europe, the
+Euratom programme and the Digital Europe Programme. As far as the construction of ITER
+is concerned, the EU no longer considers Switzerland a participating state for the time being.
+However, a change of status of Switzerland by the EC remains possible. The association to
+Horizon Europe and related programmes and initiatives as soon as possible remains the
+declared goal of the Federal Council.
+ Applicants based in Switzerland must submit their project proposals on the Funding &
+tenders portal as participants from a non-associated third country (‘associated partner’) until
+further notice. This applies not only to the calls with call identifier 2021, but also to the 2022
+calls (meaning 2021 or 2022 is included in the call ID) until further notice.
+ As a non-associated third country, project participants based in Switzerland can still
+participate in most collaborative projects. The Swiss project partner will not be funded by
+the EC but by SERI. (For units of the central federal administration special conditions apply.)
+ According to new guidance by the European Commission from January 2022, entities from
+non-associated third countries are now eligible to participate in Coordination and Support
+Actions (CSA) as ‘associated partners’ (unless the work programme or the grant agreement
+lays down additional conditions, which must be met to participate in the action).
+ Please be aware that should Switzerland be reclassified by the EC as a "country to be
+associated" before the deadline of the corresponding calls, Swiss participants must change
+their status from ‘associated partner’ to ‘beneficiary’ in the project proposal and apply for
+funding from the EC. In this case, the budget must be included in the total amount of funding
+requested by the consortium from the EC.
+ The participation in mono-beneficiary instruments (individual ERC grants, MSCA
+Postdoctoral Fellowships, MSCA COFUND and EIC Accelerator) is by principle excluded as
+a non-associated third country. However, an exception applies to the 2021 calls for ERC
+Starting Grants (StG), ERC Consolidator Grants (CoG) and the first cut-off of the EIC
+Accelerator. These were evaluated by the EC on an exceptional basis, as Switzerland was
+still classified as a ‘country to be associated’ by the EC at the time of the call deadline.
+
+Researchers and innovators with a successfully evaluated ERC StG or, ERC CoG or EIC
+Accelerator (after two evaluation stages) are awarded a ‘SERI-funded ERC Starting Grant’,
+‘SERI-funded ERC Consolidator Grant’ or ‘SERI funded-EIC Accelerator Grant’ if they carry
+out their project in Switzerland.
+ On September 17 2021, the Federal Council instructed SERI to initiate transitional measures,
+which the Parliament approved in December 2021. As a substitute for participation in the
+2021 ERC Advanced Grants (AdG), 2021 MSCA PF calls and the 2022 ERC StG, SERI has
+mandated the Swiss National Science Foundation (SNSF) to implement transitional
+solutions. Furthermore, SERI will initiate additional transitional measures in cooperation
+with Innosuisse, the European Space Agency (ESA) and other stakeholders.
+ In addition, SERI has mandated the SNSF to implement a transitional solution for the 2022
+ERC CoG call. It is based as far as possible on the EC's ERC CoG call, but with its own
+deadlines for project submission. In addition, SERI is currently examining possible
+transitional measures for the 2022 ERC AdG to be initiated if Switzerland's status in Horizon
+Europe will not have changed by the end of April 2022. The corresponding measure would
+be foreseen for the second half of 2022. SERI will provide further information in due time.
+ On 4 March 2022, the Federal Council approved transitional measures for the 2022 EIC
+Accelerator calls. The financial resources for these measures still need to be approved by
+Parliament as part of the credit and budget process. The measures will be implemented by
+Innosuisse through a specific call for proposals for the ‘Swiss Accelerator’, which will be
+published on 1 April 2022.
+ SERI is also currently examining possible transitional measures for further 2022 calls and
+will provide information in due time.
+ Furthermore, the Federal Council has instructed SERI to examine suitable complementary
+measures, namely for programme parts that are no longer accessible (including for the calls
+in the Quantum and Space areas), such as replacement measures, which should only take
+effect if no association is possible in the long term.
+1
+Please note that according to the EU nomenclature, all non-EU states are referred to as third countries. Within Horizon Europe, a distinction is
+made between (i) associated countries and (ii) non-associated third countries. This nomenclature is also used in this document. Among the nonassociated third countries, participants from high-income third countries do normally not receive funding from the European Commission (EC), while
+a number of low- and middle-income third countries are automatically eligible for EC funding. Detailed information can be found here.
+
+INDEX
+A.
+
+GUIDELINES FOR PARTICIPANTS .............................................................................................. 3
+A.1 Collaborative projects .................................................................................................................... 3
+A.2 Mono-beneficiary projects ............................................................................................................. 4
+
+B.
+
+SWISS PARTICIPATION IN HORIZON EUROPE ......................................................................... 5
+
+B.1 State of play ................................................................................................................................... 5
+B.2 Transitional measures ................................................................................................................... 5
+C.
+
+PARTICIPATION IN HORIZON 2020 ............................................................................................. 6
+
+D.
+
+CONTACT ....................................................................................................................................... 6
+
+2
+
+A. GUIDELINES FOR PARTICIPANTS
+Please note: To provide further information on specific issues, SERI has also published a document
+with the most “frequently asked questions and answer on the Swiss participation in Horizon Europe and
+related programmes and initiatives” on its website.
+A.1 Collaborative projects
+-
+
+SERI recommends institutions based in Switzerland (including companies and notably SME) to
+participate in consortia responding to calls for proposals in Horizon Europe and in the Euratom
+programme.
+
+-
+
+As long as Switzerland participates in Horizon Europe as a non-associated third county, SERI will
+fund participants in collaborative projects. This also applies to collaborative projects within the Marie
+Skłodowska-Curie Actions (MSCA Doctoral Networks and MSCA Staff Exchanges) and the
+European Innovation Council (EIC).
+
+-
+
+As a non-associated third country, a number of limitations apply that need to be taken into account:
+
+-
+
+
+
+For researchers and innovators based in Switzerland, including companies and SME, the
+funding in collaborative projects is secured if the project is funded under Horizon Europe or
+related programmes and initiatives. In this case, funding to the Swiss entities will be
+provided directly by SERI. (For units of the central federal administration special conditions
+apply.)
+
+
+
+Any proposal needs to fulfil the general eligibility criteria. Any consortium needs a minimum
+of 3 independent partners from 3 different Member States or associated countries, of which
+at least one is based in a Member State. Any participants from non-associated third
+countries would only be possible as addition to these 3.
+
+
+
+Participants from non-associated third countries cannot coordinate projects. They can
+however lead work packages as any other participant.
+
+
+
+According to new guidance by the European Commission from January 2022, entities from
+non-associated third countries are eligible to participate in Coordination and Support
+Actions (CSA) as ‘associated partners’ (unless the work programme or the grant agreement
+lays down additional conditions which must be met to participate in the action).This rule is
+fully applicable under the current work programme. After the call deadline, Swiss partners
+can join projects as ‘associated partners’ at the discretion of the consortium and subject to
+approval by the granting authority (via an amendment if the grant was already signed), on
+a case-by-case basis.
+
+
+
+For collaborative projects of the European Research Council (ERC), namely ERC Synergy
+Grants, participants from non-associated third countries (e.g. Switzerland) can apply as part
+of a consortium. However, only one Principal Investigator linked to an institution based in a
+non-associated third country is permitted per project.
+
+
+
+European project partners should be assured that taking a Swiss partner aboard would not
+have a negative impact on the evaluation of the project. The evaluation by independent
+experts follows clear guidelines and criteria and any discrimination would explicitly violate
+the evaluation rules.
+
+
+
+As participants from a non-associated third country, Swiss researchers and innovators
+would need to explain at project submission how funding for their contribution will be
+secured. Corresponding financial guarantees for the calls 2021 and 2022, which can be
+shared with the consortium partners, are provided by SERI on its website.
+
+
+
+The Euresearch network, which is funded and mandated by SERI for this purpose, will
+continue to advise researchers and innovators in Switzerland planning to participate in
+Horizon Europe projects. We advise to seek their support when submitting projects.
+
+In addition, SERI is preparing suitable measures for collaborative projects that are not accessible
+as a non-associated third country (notably in the field of quantum and space technologies) and will
+inform accordingly (see section B.2).
+
+3
+
+-
+
+If researchers and innovators have obtained Horizon Europe project funding in collaborative projects
+from an institution in an EU Member State or associated country and have accepted an appointment
+to an institution in Switzerland, as long as Switzerland is a non-associated third country, SERI will
+directly fund these researchers and innovators (through so-called transfer grants).
+
+A.2 Mono-beneficiary projects
+-
+
+As a non-associated third country, a participation in mono-beneficiary instruments (namely ERC,
+MSCA Postdoctoral Fellowships, MSCA COFUND and EIC Accelerator) is no longer possible. This
+also applies to proposals already submitted that will not necessarily be evaluated.
+
+-
+
+However, exceptional rules apply to the 2021 calls of the ERC Starting (StG) and Consolidator
+Grants (CoG), which have already been closed. As the host institution for these projects can be
+changed during the preparation phase of the Grant Agreement, proposals submitted by Principal
+Investigatorsbased at a Swiss host institution will be evaluated. Researchers and innovators with a
+positively evaluated project proposal for an ERC StG 2021 or an ERC CoG 2021 (an application on
+the so-called ‘main list’ that would in principle be eligible for EU funding) are awarded a ‘SERIfunded ERC Starting Grant’ or ‘SERI-funded ERC Consolidator Grant’ from SERI if they carry out
+their project at an institution in Switzerland.
+
+-
+
+Researchers and innovators with a positively evaluated project proposals of the EIC Accelerator call
+2021 (after two evaluation stages) will receive a ‘SERI funded-EIC Accelerator Grant’.
+
+-
+
+As a substitute for the participation in the 2021 ERC Advanced Grants, 2021 MSCA Postdoctoral
+Fellowships calls and the 2022 ERC Starting and Consolidator Grants, SERI has assigned the Swiss
+National Science Foundation (SNSF) to implement transitional solutions (see section B.2).
+
+-
+
+The Federal Council also decided to initiate transitional measures for the 2022 EIC Accelerator calls.
+These measures will be implemented by Innosuisse (see section B.2).
+
+-
+
+In addition, SERI is currently examining possible transitional measures for the 2022 ERC AdG to be
+initiated if Switzerland's status in Horizon Europe will not have changed by the end of April 2022.
+The corresponding measure would be foreseen for the second half of 2022. SERI will provide further
+information in due time.
+
+-
+
+As a non-associated third country, a number of limitations apply that need to be taken into account:
+
+-
+
+
+
+Researchers based in Switzerland remain eligible for the ERC StG, CoG and AdG and
+corresponding funding from the ECs long as they spend in addition to their affiliation and
+time at a Swiss institution, at least half of their working time in an institution in a EU Member
+State or an associated country and implement their ERC project at said institution (for more
+details see ERC work programme 2022).
+
+
+
+Since MSCA Postdoctoral Fellowships are mono-beneficiary instruments, the participation
+of non-associated third countries is restricted. Swiss institutions are not eligible to host
+European Postdoctoral Fellowships, but they can host researchers during the outgoing
+phase of Global Postdoctoral Fellowships.
+
+
+
+European Postdoctoral Fellowships are open to researchers of all nationalities. Swiss
+citizens are thus eligible to apply for European Postdoctoral Fellowships as long as their
+host institution is located in an EU Member State or associated country. In contrary, Global
+Postdoctoral Fellowships are restricted to citizens and long-term residents of an EU
+Member State or associated country.
+
+
+
+The Euresearch network, which is funded and mandated by SERI for this purpose, will
+continue to advise researchers and innovators in Switzerland planning to participate in
+Horizon Europe projects. We advise to seek their support when submitting projects.
+
+If researchers and innovators have obtained Horizon Europe project funding for a mono-beneficiary
+grant (namely ERC StG, CoG, AdG) from an institution in an EU Member State or an associated
+country and have accepted an appointment to an institution in Switzerland, as long as Switzerland
+is a non-associated third country, SERI will directly fund these researchers and innovators (through
+so-called transfer grants).
+
+4
+
+B. SWISS PARTICIPATION IN HORIZON EUROPE
+B.1 State of play
+-
+
+The legal basis for Horizon Europe was adopted by the Council of the EU on 16 March 2021 and
+by the European Parliament on 27 April 2021. On 12 May 2021 the Horizon Europe Regulation
+officially entered into force. It is retroactively applied as of 1 January 2021.
+
+-
+
+The European Commission (EC) informed SERI on June 22nd that Switzerland will be treated as a
+non-associated third country for the submission of project proposals in Horizon Europe and related
+programmes and initiatives (see Horizon Europe Programme Guide).
+
+-
+
+According to information provided by the EC in November 2021, this status will also apply to the
+calls in 2022 until further notice. In a response letter, the EC stated that at this point in time they are
+not in a position to discuss the next steps towards association exploratory talks and negotiations.
+
+-
+
+Hence, participants in Switzerland receive their funding directly from SERI, namely in all projects
+that were fully evaluated, for which a participation is possible and a positive result of the evaluation
+is available.
+B.2 Transitional measures
+
+-
+
+On 17 September 2021, the Federal Council instructed SERI to introduce transitional measures.
+Planned transitional measures outside SERI were submitted to the Parliament with a subsequent
+notification for the 2022 budget and approved in December 2021. As a substitute for participation in
+the 2021 ERC Advanced Grants (AdG), 2021 MSCA Postdoctoral Fellowships (PF) calls and the
+2022 ERC Starting (StG) and Consolidator Grants (CoG), SERI has assigned the Swiss National
+Science Foundation (SNSF) to implement transitional solutions. These are based on the ERC StG,
+ERC AdG, ERC CoG and MSCA PF calls as far as possible. However, they have their own deadlines
+for project submission. Further information about the specific calls are available on the SNSF
+website.
+
+-
+
+Additional transitional measures will be initiated by SERI with Innosuisse, the European Space
+Agency (ESA) and other actors. As part of the transitional measures Innosuisse will engage in the
+Eureka clusters ITEA-4 and Xecs, whose calls for proposals will close at the end of 2021 and the
+beginning of 2022 respectively. In addition, innovation projects and systemic innovation in the
+framework of the Flagship Initiative will be strengthened at Innosuisse, as well as the BRIDGE
+programme. At ESA, the funds will be available from 2022 and will be used within the already
+running programmes Prodex and Artes.
+Innosuisse: International opportunities
+Innosuisse: Innovation projects
+Innosuisse: Flagship Initiative
+Swiss Space Office: PRODEX
+Swiss Space Office: ARTES
+
+-
+
+On 4 March 2022, the Federal Council approved transitional measures for the 2022 EIC Accelerator
+calls. The financial resources for these measures still need to be approved by Parliament as part of
+the credit and budget process. The measures will be implemented by Innosuisse through a specific
+call for proposals for the ‘Swiss Accelerator’, which will be published on 1 April 2022.
+
+-
+
+SERI is also currently examining possible transitional measures for the 2022 calls and will provide
+information in due course.
+
+-
+
+As a transitional measure, the Federal Council on 20 October 2021 approved the direct funding by
+SERI, of collaborative projects and accessible individual projects that have been positively
+evaluated by the EC. This measure was already included in the federal decree on the Horizon
+package and does not require any further consideration by the Parliament. It is therefore applicable
+with immediate effect. Switzerland's rapid association to Horizon Europe remains the Federal
+Council's declared goal.
+
+5
+
+C. PARTICIPATION IN HORIZON 2020
+-
+
+The bilateral agreement between Switzerland and the EU on Swiss association to Horizon 2020
+remains fully valid until all projects under the programme are effectively concluded.
+
+-
+
+The European Commission will continue to fund Swiss participants in projects, in which they were
+eligible for EU funding, until these projects are effectively concluded
+
+-
+
+SERI will continue to fund all projects linked to partial association (2014–2016).
+
+-
+
+The Swiss status in Horizon Europe has no implications for projects funded under Horizon 2020.
+
+D. CONTACT
+-
+
+For questions on the status of Switzerland and on federal funding of Swiss participation in
+EU projects:
+State Secretariat for Education, Research and Innovation SERI
+EU Framework Programmes
+Hotline +41 58 463 50 50, europrogram@sbfi.admin.ch
+
+-
+
+Media enquiries:
+State Secretariat for Education, Research and Innovation SERI
+Communications, tel +41 58 462 96 90, medien@sbfi.admin.ch
+
+-
+
+For questions on submitting research proposals:
+Euresearch, tel +41 31 380 60 00, info@euresearch.ch
+
+6
+
+
