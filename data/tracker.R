@@ -1,14 +1,14 @@
 # run once
-install.packages("pdftools")
-install.packages("git2r")
-install.packages("here")
+#install.packages("pdftools")
+# install.packages("git2r")
+# install.packages("here")
 
 library(pdftools)
-library(git2r)
+# library(git2r)
 library(here)
 
-repo <- repository()
-config(repo, user.name="georgeskl", user.email="georgesjklein@gmail.com")
+# repo <- repository()
+# config(repo, user.name="georgeskl", user.email="georgesjklein@gmail.com")
 
 # download latest Q&A and Factsheet
 download.file("https://www.sbfi.admin.ch/dam/sbfi/it/dokumente/2020/01/qa-h-europa.pdf.download.pdf/QA-Horizon-Europe_E.pdf", "QA-Horizon-Europe_E.pdf")
@@ -21,9 +21,9 @@ factsheet_text <- pdf_text("Fact-sheet_Horizon_en.pdf")
 writeLines(factsheet_text, here("data", "Fact-sheet_Horizon_en.txt"))
 
 # commiting changes
-add(repo, path = "data/QA-Horizon-Europe_E.txt")
-add(repo, path = "data/Fact-sheet_Horizon_en.txt")
+#add(repo, path = "data/QA-Horizon-Europe_E.txt")
+#add(repo, path = "data/Fact-sheet_Horizon_en.txt")
 
 # needs a tryCatch
-commit(repo, message = "Updated with R")
-push(repo, "origin", "refs/heads/main")
+#commit(repo, message = "Updated with R")
+#push(repo, "origin", "refs/heads/main")
