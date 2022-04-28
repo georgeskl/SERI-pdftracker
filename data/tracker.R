@@ -1,14 +1,14 @@
 # run once
-# install.packages("pdftools")
-# install.packages("git2r")
-# install.packages("here")
+install.packages("pdftools")
+install.packages("git2r")
+install.packages("here")
 
 library(pdftools)
 library(git2r)
 library(here)
 
 repo <- repository()
-config(repo, user.name="zambujo", user.email="zambuj@gmail.com")
+config(repo, user.name="georgeskl", user.email="georgesjklein@gmail.com")
 
 # download latest Q&A and Factsheet
 download.file("https://www.sbfi.admin.ch/dam/sbfi/it/dokumente/2020/01/qa-h-europa.pdf.download.pdf/QA-Horizon-Europe_E.pdf", "QA-Horizon-Europe_E.pdf")
